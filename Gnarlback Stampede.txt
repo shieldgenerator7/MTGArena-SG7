@@ -1,0 +1,55 @@
+Deck
+3 Gnarlback Rhino (M20) 300
+1 Healer of the Glade (M20) 176
+3 Healer's Hawk (GRN) 14
+1 Gargos, Vicious Watcher (M20) 172
+1 Incubation Druid (RNA) 131
+2 Arboreal Grazer (WAR) 149
+3 Impassioned Orator (RNA) 12
+3 Ajani's Pridemate (WAR) 4
+1 Ajani, Strength of the Pride (M20) 2
+1 Nexus Wardens (THB) 184
+1 Angelic Reward (ANA) 1
+1 Dawn of Hope (GRN) 8
+1 Heliod, Sun-Crowned (THB) 18
+2 Commanding Presence (THB) 7
+1 Moment of Heroism (M20) 30
+2 Archon of Sun's Grace (THB) 3
+15 Forest (THB) 254
+4 Blossoming Sands (M20) 243
+3 Season of Growth (M20) 191
+4 Gift of Paradise (M20) 173
+3 Hydra's Growth (THB) 172
+1 Return to Nature (THB) 197
+13 Plains (THB) 250
+1 Relentless Pursuit (THB) 195
+1 Shadowspear (THB) 236
+1 Heliod's Pilgrim (THB) 20
+1 Sentinel's Eyes (THB) 36
+2 Mirror Shield (THB) 234
+1 Captivating Unicorn (THB) 6
+1 Biogenic Upgrade (RNA) 123
+2 Warbriar Blessing (THB) 204
+2 Staggering Insight (THB) 228
+1 Entrancing Lyre (THB) 233
+1 Mystic Repeal (THB) 180
+1 Natural End (M20) 183
+1 Keeper of Fables (ELD) 163
+1 Alseid of Life's Bounty (THB) 1
+
+Sideboard
+1 District Guide (GRN) 128
+1 Generous Stray (GRN) 129
+1 Inspiring Commander (ANA) 5
+1 Wakeroot Elemental (M20) 202
+1 Kraul Foragers (GRN) 135
+1 Silhana Wayfinder (RNA) 141
+1 Prized Unicorn (M20) 342
+1 Bronzehide Lion (THB) 210
+1 Dryad of the Ilysian Grove (THB) 169
+1 Lagonna-Band Storyteller (THB) 27
+1 Pious Wayfarer (THB) 32
+1 Assure // Assemble (GRN) 221
+1 Pulse of Murasa (M20) 189
+1 Heliod's Intervention (THB) 19
+1 Leafkin Druid (M20) 178
