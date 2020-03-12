@@ -6,7 +6,6 @@ Deck
 1 Wolfwillow Haven (THB) 205
 1 Setessan Training (THB) 201
 1 Beast Whisperer (GRN) 123
-1 Nexus Wardens (THB) 184
 1 Angelic Reward (ANA) 1
 1 Dawn of Hope (GRN) 8
 2 Commanding Presence (THB) 7
@@ -17,7 +16,7 @@ Deck
 1 Gift of Paradise (M20) 173
 2 Hydra's Growth (THB) 172
 9 Plains (THB) 250
-1 Shadowspear (THB) 236
+2 Frilled Sandwalla (M20) 340
 1 Heliod's Pilgrim (THB) 20
 1 Mirror Shield (THB) 234
 1 Keeper of Fables (ELD) 163
