@@ -1,66 +1,51 @@
 Deck
-4 Ajani's Pridemate (WAR) 4
-14 Forest (THB) 254
-4 Hunted Witness (GRN) 15
-4 Impassioned Orator (RNA) 12
-3 Moment of Heroism (M20) 30
-2 Angelic Reward (ANA) 1
-3 Spiritual Guardian (ANA) 11
-3 Giant Growth (WAR) 162
-4 Season of Growth (M20) 191
-4 Growth Cycle (M20) 175
-8 Plains (THB) 279
-3 Oakenform (M20) 341
-4 Blossoming Sands (M20) 243
-4 Selesnya Guildgate (GRN) 255
-1 Assure // Assemble (GRN) 221
-2 Gargos, Vicious Watcher (M20) 172
-1 Prized Unicorn (M20) 342
 4 Gnarlback Rhino (M20) 300
-1 Wakeroot Elemental (M20) 202
-2 Plains (M20) 262
-4 Silhana Wayfinder (RNA) 141
-2 Inspiring Commander (ANA) 5
-4 Gift of Paradise (M20) 173
-4 Generous Stray (GRN) 129
-1 Bronzehide Lion (THB) 210
-4 Leafkin Druid (M20) 178
-2 Commanding Presence (THB) 7
-2 Revoke Existence (THB) 34
-2 Return to Nature (THB) 197
-4 Healer's Hawk (GRN) 14
-1 Ajani, Strength of the Pride (M20) 2
-4 Pulse of Murasa (M20) 189
-2 Plains (GRN) 260
-4 Rabid Bite (M20) 190
-2 District Guide (GRN) 128
-1 Dawn of Hope (GRN) 8
-2 Herald of the Sun (M20) 23
-1 Incubation Druid (RNA) 131
-1 Conclave Guildmage (GRN) 162
-1 Pious Wayfarer (THB) 32
-1 Urban Utopia (GRN) 146
-1 Open the Gates (RNA) 133
-1 Twilight Panther (RNA) 28
-1 Forbidding Spirit (RNA) 9
-1 Loyal Pegasus (M20) 28
-1 Squad Captain (M20) 38
-1 Mammoth Spider (M20) 181
-1 Ironroot Warlord (M20) 209
-1 Healer of the Glade (M20) 176
+17 Plains (THB) 250
+4 Impassioned Orator (RNA) 12
+21 Forest (THB) 254
+4 Season of Growth (M20) 191
 2 Hydra's Growth (THB) 172
-1 Nylea's Huntmaster (THB) 187
+4 Growth Cycle (M20) 175
+4 Ajani's Pridemate (WAR) 4
+1 Ajani, Strength of the Pride (M20) 2
+4 Healer's Hawk (GRN) 14
+1 Aggressive Mammoth (M20) 337
+2 Return to Nature (THB) 197
+4 Rabid Bite (M20) 190
+2 Angelic Reward (ANA) 1
+3 Oakenform (M20) 341
+4 Pulse of Murasa (M20) 189
+1 Nexus Wardens (THB) 184
+1 Dawn of Hope (GRN) 8
+2 Commanding Presence (THB) 7
+4 Gift of Paradise (M20) 173
+4 Blossoming Sands (M20) 243
+1 Incubation Druid (RNA) 131
+4 Leafkin Druid (M20) 178
+1 Healer of the Glade (M20) 176
+1 Gargos, Vicious Watcher (M20) 172
+1 Wakeroot Elemental (M20) 202
+2 District Guide (GRN) 128
 1 Nyxborn Colossus (THB) 191
-1 Nessian Hornbeetle (THB) 182
-1 Flicker of Fate (THB) 16
-1 Dryad of the Ilysian Grove (THB) 169
-1 Indomitable Will (THB) 25
+1 Assure // Assemble (GRN) 221
+4 Generous Stray (GRN) 129
+3 Moment of Heroism (M20) 30
+1 Kraul Foragers (GRN) 135
+1 True Love's Kiss (ELD) 34
+1 Loxodon Lifechanter (M20) 27
+1 Heliod, Sun-Crowned (THB) 18
 
 Sideboard
-1 Ironroot Warlord (M20) 209
-1 Knight of Autumn (GRN) 183
-2 Dawning Angel (M20) 11
-1 Nexus Wardens (THB) 184
 1 Omen of the Hunt (THB) 192
-1 Inspire Awe (THB) 175
-3 Titanic Brawl (RNA) 146
+1 Dryad of the Ilysian Grove (THB) 169
+1 Urban Utopia (GRN) 146
+1 Silhana Wayfinder (RNA) 141
+1 Sunmane Pegasus (THB) 38
+1 Archon of Sun's Grace (THB) 3
+1 Loyal Pegasus (M20) 28
+1 Outmuscle (ELD) 170
+1 Pious Wayfarer (THB) 32
+1 Prized Unicorn (M20) 342
+1 Silverflame Ritual (ELD) 30
+1 Bronzehide Lion (THB) 210
+1 Inspiring Commander (ANA) 5
