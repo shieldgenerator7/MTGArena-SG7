@@ -1,7 +1,7 @@
 Deck
 1 Benthic Biomancer (RNA) 32
 11 Island (UND) 90
-1 Return to Nature (THB) 197
+2 Starlit Mantle (THB) 67
 1 Contentious Plan (WAR) 46
 2 Negate (M20) 69
 3 Nadir Kraken (THB) 55
@@ -15,11 +15,14 @@ Deck
 1 The Great Henge (ELD) 161
 2 Simic Ascendancy (RNA) 207
 3 Barkhide Troll (M20) 165
-1 Rabid Bite (M20) 190
+1 Steelbane Hydra (ELD) 322
 2 Ilysian Caryatid (THB) 174
 3 Paradise Druid (WAR) 171
 1 Setessan Champion (THB) 198
 2 Spectral Sailor (M20) 76
-1 Nessian Hornbeetle (THB) 182
+1 Woodland Champion (M20) 205
 1 Arasta of the Endless Web (THB) 165
 1 Mirror Shield (THB) 234
+1 Vraska, Swarm's Eminence (WAR) 236
+1 Awakening of Vitu-Ghazi (WAR) 152
+1 Mantle of the Wolf (THB) 178
