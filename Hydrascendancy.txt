@@ -1,28 +1,25 @@
 Deck
 1 Benthic Biomancer (RNA) 32
-9 Island (UND) 90
+11 Island (UND) 90
 1 Return to Nature (THB) 197
-2 Contentious Plan (WAR) 46
-1 Essence Capture (RNA) 37
-1 Negate (M20) 69
-2 Nadir Kraken (THB) 55
+1 Contentious Plan (WAR) 46
+2 Negate (M20) 69
+3 Nadir Kraken (THB) 55
 1 Mirrormade (ELD) 55
-11 Forest (UND) 96
-1 Combine Guildmage (RNA) 163
+13 Forest (UND) 96
 1 Incubation Druid (RNA) 131
-3 Moss Viper (THB) 179
-1 Warbriar Blessing (THB) 204
-3 Hydra's Growth (THB) 172
-1 Vivid Revival (GRN) 148
+2 Moss Viper (THB) 179
+2 Hydra's Growth (THB) 172
 1 Leyline of Abundance (M20) 179
-1 Biogenic Upgrade (RNA) 123
+4 Biogenic Upgrade (RNA) 123
 1 The Great Henge (ELD) 161
 2 Simic Ascendancy (RNA) 207
-4 Thornwood Falls (M20) 258
-2 Galloping Lizrog (RNA) 175
-1 Hydroid Krasis (RNA) 183
-1 Uro, Titan of Nature's Wrath (THB) 229
-3 Ilysian Caryatid (THB) 174
-2 New Horizons (XLN) 198
+3 Barkhide Troll (M20) 165
+1 Rabid Bite (M20) 190
+2 Ilysian Caryatid (THB) 174
+3 Paradise Druid (WAR) 171
 1 Setessan Champion (THB) 198
 2 Spectral Sailor (M20) 76
+1 Nessian Hornbeetle (THB) 182
+1 Arasta of the Endless Web (THB) 165
+1 Mirror Shield (THB) 234
