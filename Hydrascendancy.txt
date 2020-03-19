@@ -8,23 +8,21 @@ Deck
 2 Nadir Kraken (THB) 55
 1 Mirrormade (ELD) 55
 11 Forest (UND) 96
-1 Stony Strength (RNA) 143
+1 Combine Guildmage (RNA) 163
 1 Incubation Druid (RNA) 131
-1 Nessian Hornbeetle (THB) 182
-1 Titanic Brawl (RNA) 146
+3 Moss Viper (THB) 179
+1 Warbriar Blessing (THB) 204
 3 Hydra's Growth (THB) 172
 1 Vivid Revival (GRN) 148
 1 Leyline of Abundance (M20) 179
 1 Biogenic Upgrade (RNA) 123
 1 The Great Henge (ELD) 161
-1 Voracious Hydra (M20) 200
-1 Biomancer's Familiar (RNA) 158
-2 Combine Guildmage (RNA) 163
 2 Simic Ascendancy (RNA) 207
-1 Sharktocrab (RNA) 206
 4 Thornwood Falls (M20) 258
-3 Galloping Lizrog (RNA) 175
+2 Galloping Lizrog (RNA) 175
 1 Hydroid Krasis (RNA) 183
-1 Memory Drain (THB) 54
 1 Uro, Titan of Nature's Wrath (THB) 229
 3 Ilysian Caryatid (THB) 174
+2 New Horizons (XLN) 198
+1 Setessan Champion (THB) 198
+2 Spectral Sailor (M20) 76
