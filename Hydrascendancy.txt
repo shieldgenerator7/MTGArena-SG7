@@ -1,12 +1,11 @@
 Deck
 1 Benthic Biomancer (RNA) 32
-11 Island (UND) 90
-2 Starlit Mantle (THB) 67
+12 Island (UND) 90
 1 Contentious Plan (WAR) 46
 2 Negate (M20) 69
-3 Nadir Kraken (THB) 55
+4 Nadir Kraken (THB) 55
 1 Mirrormade (ELD) 55
-13 Forest (UND) 96
+14 Forest (UND) 96
 1 Incubation Druid (RNA) 131
 2 Moss Viper (THB) 179
 2 Hydra's Growth (THB) 172
@@ -20,9 +19,7 @@ Deck
 3 Paradise Druid (WAR) 171
 1 Setessan Champion (THB) 198
 2 Spectral Sailor (M20) 76
-1 Woodland Champion (M20) 205
 1 Arasta of the Endless Web (THB) 165
 1 Mirror Shield (THB) 234
 1 Vraska, Swarm's Eminence (WAR) 236
 1 Awakening of Vitu-Ghazi (WAR) 152
-1 Mantle of the Wolf (THB) 178
