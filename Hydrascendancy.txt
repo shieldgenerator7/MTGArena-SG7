@@ -1,12 +1,11 @@
 Deck
-1 Benthic Biomancer (RNA) 32
 12 Island (UND) 90
 2 Negate (M20) 69
 4 Nadir Kraken (THB) 55
 1 Mirrormade (ELD) 55
 13 Forest (UND) 96
 1 Incubation Druid (RNA) 131
-2 Moss Viper (THB) 179
+3 Moss Viper (THB) 179
 3 Hydra's Growth (THB) 172
 4 Biogenic Upgrade (RNA) 123
 1 The Great Henge (ELD) 161
@@ -16,9 +15,10 @@ Deck
 2 Ilysian Caryatid (THB) 174
 3 Paradise Druid (WAR) 171
 1 Setessan Champion (THB) 198
-2 Spectral Sailor (M20) 76
+1 Spectral Sailor (M20) 76
 1 Riptide Turtle (THB) 61
 1 Mirror Shield (THB) 234
 1 Vraska, Swarm's Eminence (WAR) 236
 1 Awakening of Vitu-Ghazi (WAR) 152
 1 Renata, Called to the Hunt (THB) 196
+1 Oakhame Adversary (ELD) 167
