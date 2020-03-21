@@ -1,9 +1,7 @@
 Deck
-1 The Triumph of Anax (THB) 160
-1 Furious Rise (THB) 136
 2 Kraul Harpooner (GRN) 136
-16 Mountain (UND) 94
-3 Titanic Brawl (RNA) 146
+10 Mountain (UND) 94
+1 Titanic Brawl (RNA) 146
 4 Warbriar Blessing (THB) 204
 1 Outmuscle (ELD) 170
 2 Gargos, Vicious Watcher (M20) 172
@@ -11,18 +9,14 @@ Deck
 2 Voracious Hydra (M20) 200
 2 Savage Smash (RNA) 203
 1 Ravager Wurm (RNA) 200
-4 Rabid Bite (M20) 190
+3 Rabid Bite (M20) 190
 1 Domri's Ambush (WAR) 192
 1 Thrash // Threat (RNA) 229
 4 Gnarlback Rhino (M20) 300
-3 Giant Growth (WAR) 162
-4 Growth Cycle (M20) 175
-4 Season of Growth (M20) 191
-4 Hydra's Growth (THB) 172
-1 Ox of Agonas (THB) 147
-20 Forest (UND) 96
+3 Season of Growth (M20) 191
+1 Hydra's Growth (THB) 172
+14 Forest (UND) 96
 3 Paradise Druid (WAR) 171
 1 Incubation Druid (RNA) 131
-1 Mantle of the Wolf (THB) 178
-1 Gallia of the Endless Dance (THB) 217
+1 Arboreal Grazer (WAR) 149
 1 Setessan Champion (THB) 198
