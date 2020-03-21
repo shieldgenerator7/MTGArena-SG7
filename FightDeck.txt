@@ -1,0 +1,23 @@
+Deck
+1 The Triumph of Anax (THB) 160
+2 Savage Smash (RNA) 203
+2 Kraul Harpooner (GRN) 136
+24 Forest (UND) 96
+3 Titanic Brawl (RNA) 146
+4 Warbriar Blessing (THB) 204
+1 Outmuscle (ELD) 170
+2 Gargos, Vicious Watcher (M20) 172
+2 Pheres-Band Brawler (THB) 193
+2 Voracious Hydra (M20) 200
+1 Ravager Wurm (RNA) 200
+7 Mountain (UND) 94
+1 Incubation Druid (RNA) 131
+1 Beast Whisperer (GRN) 123
+4 Leafkin Druid (M20) 178
+3 Nessian Wanderer (THB) 183
+4 Setessan Skirmisher (THB) 200
+3 Nexus Wardens (THB) 184
+1 Setessan Champion (THB) 198
+4 Gnarlback Rhino (M20) 300
+4 Rabid Bite (M20) 190
+4 Gift of Paradise (M20) 173
