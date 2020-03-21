@@ -21,7 +21,8 @@ Deck
 4 Hydra's Growth (THB) 172
 1 Ox of Agonas (THB) 147
 20 Forest (UND) 96
-3 Gift of Paradise (M20) 173
-2 New Horizons (XLN) 198
+3 Paradise Druid (WAR) 171
+1 Incubation Druid (RNA) 131
 1 Mantle of the Wolf (THB) 178
 1 Gallia of the Endless Dance (THB) 217
+1 Setessan Champion (THB) 198
