@@ -17,7 +17,7 @@ Deck
 4 Nessian Hornbeetle (THB) 182
 4 Gnarlback Rhino (M20) 300
 4 Rabid Bite (M20) 190
-4 Gift of Paradise (M20) 173
+4 Silhana Wayfinder (RNA) 141
 3 Moss Viper (THB) 179
 1 Oakhame Adversary (ELD) 167
 2 Moodmark Painter (GRN) 78
@@ -27,7 +27,7 @@ Deck
 2 Rhizome Lurcher (GRN) 196
 2 Izoni, Thousand-Eyed (GRN) 180
 1 Molderhulk (GRN) 190
-2 Paradise Druid (WAR) 171
+3 Paradise Druid (WAR) 171
 4 Glowspore Shaman (GRN) 173
 2 Undercity Uprising (GRN) 210
 4 Underworld Rage-Hound (THB) 163
@@ -40,7 +40,7 @@ Deck
 4 Growth Cycle (M20) 175
 4 Season of Growth (M20) 191
 3 Funeral Rites (THB) 97
-2 New Horizons (XLN) 198
+2 District Guide (GRN) 128
 2 Leyline Prowler (WAR) 202
 1 Hired Poisoner (GRN) 72
 2 Knight of the Ebon Legion (M20) 105
@@ -64,13 +64,13 @@ Deck
 1 Dreadhorde Butcher (WAR) 194
 1 Judith, the Scourge Diva (RNA) 185
 1 Moldervine Reclamation (M20) 214
-4 Omen of the Hunt (THB) 192
+2 Leafkin Druid (M20) 178
 1 Nylea, Keen-Eyed (THB) 185
 2 Gravebreaker Lamia (THB) 98
 1 Elspeth's Nightmare (THB) 91
 15 Swamp (UND) 92
-3 Relentless Pursuit (THB) 195
-1 Nylea's Intervention (THB) 188
+4 Ilysian Caryatid (THB) 174
 1 Casualties of War (WAR) 187
 2 Deathsprout (WAR) 189
 1 Keeper of Fables (ELD) 163
+1 Tolsimir, Friend to Wolves (WAR) 224
