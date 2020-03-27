@@ -7,7 +7,7 @@ Deck
 3 Simic Ascendancy (RNA) 207
 1 Uro, Titan of Nature's Wrath (THB) 229
 1 Steelbane Hydra (ELD) 322
-3 Voracious Typhon (THB) 203
+1 Planewide Celebration (WAR) 172
 2 Awakening of Vitu-Ghazi (WAR) 152
 1 Mesmerizing Benthid (RNA) 43
 2 Risen Reef (M20) 217
@@ -18,3 +18,4 @@ Deck
 1 Essence Capture (RNA) 37
 2 Woodland Champion (M20) 205
 2 Pteramander (RNA) 47
+3 Chainweb Aracnir (THB) 167
