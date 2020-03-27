@@ -1,27 +1,22 @@
 Deck
-13 Island (UND) 90
-2 Negate (M20) 69
+15 Island (UND) 90
+4 Negate (M20) 69
 4 Nadir Kraken (THB) 55
-1 Mirrormade (ELD) 55
-14 Forest (UND) 96
-1 Incubation Druid (RNA) 131
-3 Moss Viper (THB) 179
-3 Hydra's Growth (THB) 172
+16 Forest (UND) 96
+2 Hydra's Growth (THB) 172
 4 Biogenic Upgrade (RNA) 123
-1 The Great Henge (ELD) 161
 3 Simic Ascendancy (RNA) 207
-3 Barkhide Troll (M20) 165
+1 Hydroid Krasis (RNA) 183
 1 Steelbane Hydra (ELD) 322
-2 Ilysian Caryatid (THB) 174
-3 Paradise Druid (WAR) 171
-1 Setessan Champion (THB) 198
-1 Spectral Sailor (M20) 76
 1 Mirror Shield (THB) 234
 1 Awakening of Vitu-Ghazi (WAR) 152
-1 Renata, Called to the Hunt (THB) 196
-2 Arboreal Grazer (WAR) 149
-1 Warbriar Blessing (THB) 204
-1 Omen of the Sea (THB) 58
-1 Omen of the Hunt (THB) 192
-1 Keeper of Fables (ELD) 163
-3 Nexus Wardens (THB) 184
+1 Mesmerizing Benthid (RNA) 43
+2 Voracious Hydra (M20) 200
+3 Murmuring Mystic (GRN) 45
+3 Relentless Pursuit (THB) 195
+2 Growth Spiral (RNA) 178
+1 Uro, Titan of Nature's Wrath (THB) 229
+1 Courage in Crisis (WAR) 158
+1 Titanic Brawl (RNA) 146
+2 Woodland Champion (M20) 205
+2 Pteramander (RNA) 47
