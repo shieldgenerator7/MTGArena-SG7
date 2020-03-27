@@ -1,22 +1,20 @@
 Deck
-15 Island (UND) 90
+14 Island (UND) 90
 4 Negate (M20) 69
-4 Nadir Kraken (THB) 55
-16 Forest (UND) 96
-2 Hydra's Growth (THB) 172
+3 Nadir Kraken (THB) 55
+15 Forest (UND) 96
 4 Biogenic Upgrade (RNA) 123
 3 Simic Ascendancy (RNA) 207
-1 Hydroid Krasis (RNA) 183
-1 Steelbane Hydra (ELD) 322
-1 Mirror Shield (THB) 234
-1 Awakening of Vitu-Ghazi (WAR) 152
-1 Mesmerizing Benthid (RNA) 43
-2 Voracious Hydra (M20) 200
-3 Murmuring Mystic (GRN) 45
-3 Relentless Pursuit (THB) 195
-2 Growth Spiral (RNA) 178
 1 Uro, Titan of Nature's Wrath (THB) 229
-1 Courage in Crisis (WAR) 158
-1 Titanic Brawl (RNA) 146
+1 Steelbane Hydra (ELD) 322
+3 Voracious Typhon (THB) 203
+2 Awakening of Vitu-Ghazi (WAR) 152
+1 Mesmerizing Benthid (RNA) 43
+2 Risen Reef (M20) 217
+3 Murmuring Mystic (GRN) 45
+1 Wakeroot Elemental (M20) 202
+4 Growth Spiral (RNA) 178
+4 Courage in Crisis (WAR) 158
+1 Essence Capture (RNA) 37
 2 Woodland Champion (M20) 205
 2 Pteramander (RNA) 47
