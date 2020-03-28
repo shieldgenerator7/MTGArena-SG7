@@ -1,31 +1,29 @@
 Deck
 2 Gnarlback Rhino (M20) 300
 1 Gargos, Vicious Watcher (M20) 172
-1 Wolfwillow Haven (THB) 205
 1 Angelic Reward (ANA) 1
-1 Siona, Captain of the Pyleas (THB) 226
 2 Commanding Presence (THB) 7
 2 Archon of Sun's Grace (THB) 3
-16 Forest (THB) 254
 3 Season of Growth (M20) 191
-1 New Horizons (XLN) 198
 2 Hydra's Growth (THB) 172
-8 Plains (THB) 250
 2 Frilled Sandwalla (M20) 340
 1 Mirror Shield (THB) 234
 1 Keeper of Fables (ELD) 163
 2 Sentinel's Eyes (THB) 36
 2 Warbriar Blessing (THB) 204
-2 Nessian Wanderer (THB) 183
-1 Setessan Champion (THB) 198
+3 Nessian Wanderer (THB) 183
+2 Setessan Champion (THB) 198
 1 Nylea, Keen-Eyed (THB) 185
 1 The Great Henge (ELD) 161
 1 Destiny Spinner (THB) 168
-1 Alseid of Life's Bounty (THB) 1
-3 Pious Wayfarer (THB) 32
+2 Pious Wayfarer (THB) 32
 1 Transcendent Envoy (THB) 40
 1 Gauntlets of Light (M20) 17
 1 Heliod, Sun-Crowned (THB) 18
+10 Plains (UND) 88
+14 Forest (UND) 96
+2 Dryad of the Ilysian Grove (THB) 169
+1 Setessan Training (THB) 201
 
 Sideboard
 1 District Guide (GRN) 128
@@ -34,7 +32,6 @@ Sideboard
 1 Kraul Foragers (GRN) 135
 1 Silhana Wayfinder (RNA) 141
 1 Prized Unicorn (M20) 342
-1 Dryad of the Ilysian Grove (THB) 169
 1 Lagonna-Band Storyteller (THB) 27
 1 Assure // Assemble (GRN) 221
 1 Pulse of Murasa (M20) 189
