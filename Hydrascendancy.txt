@@ -1,21 +1,20 @@
 Deck
 12 Island (UND) 90
 3 Negate (M20) 69
-3 Nadir Kraken (THB) 55
-11 Forest (UND) 96
+12 Forest (UND) 96
 4 Biogenic Upgrade (RNA) 123
 3 Simic Ascendancy (RNA) 207
-1 Steelbane Hydra (ELD) 322
-1 Planewide Celebration (WAR) 172
-2 Awakening of Vitu-Ghazi (WAR) 152
-2 Spectral Sailor (M20) 76
-3 Murmuring Mystic (GRN) 45
-3 Growth Spiral (RNA) 178
+1 Mesmerizing Benthid (RNA) 43
+3 Barkhide Troll (M20) 165
+1 Awakening of Vitu-Ghazi (WAR) 152
+4 Nadir Kraken (THB) 55
+2 Arboreal Grazer (WAR) 149
+2 District Guide (GRN) 128
 2 Courage in Crisis (WAR) 158
 1 Essence Capture (RNA) 37
-2 Woodland Champion (M20) 205
-2 Pteramander (RNA) 47
-2 Chainweb Aracnir (THB) 167
-2 Contentious Plan (WAR) 46
-1 The Magic Mirror (ELD) 51
-1 Cryptic Caves (M20) 244
+1 Wakeroot Elemental (M20) 202
+2 Mirror Shield (THB) 234
+1 Hatchery Spider (GRN) 132
+3 Paradise Druid (WAR) 171
+2 Risen Reef (M20) 217
+1 Uro, Titan of Nature's Wrath (THB) 229
