@@ -1,0 +1,32 @@
+Deck
+2 Mantle of the Wolf (THB) 178
+2 New Horizons (XLN) 198
+1 Steelbane Hydra (ELD) 322
+1 Arasta of the Endless Web (THB) 165
+2 Moss Viper (THB) 179
+3 Wolfwillow Haven (THB) 205
+2 Hydra's Growth (THB) 172
+2 Frilled Sandwalla (M20) 340
+1 Mirror Shield (THB) 234
+1 Keeper of Fables (ELD) 163
+3 Warbriar Blessing (THB) 204
+3 Nessian Wanderer (THB) 183
+2 Setessan Champion (THB) 198
+1 Nylea, Keen-Eyed (THB) 185
+1 The Great Henge (ELD) 161
+2 Destiny Spinner (THB) 168
+2 Nyx Herald (THB) 189
+1 Renata, Called to the Hunt (THB) 196
+1 Wakeroot Elemental (M20) 202
+2 Gnarlback Rhino (M20) 300
+22 Forest (UND) 96
+2 Dryad of the Ilysian Grove (THB) 169
+1 Setessan Training (THB) 201
+
+Sideboard
+1 District Guide (GRN) 128
+1 Generous Stray (GRN) 129
+1 Kraul Foragers (GRN) 135
+1 Silhana Wayfinder (RNA) 141
+1 Prized Unicorn (M20) 342
+1 Pulse of Murasa (M20) 189
