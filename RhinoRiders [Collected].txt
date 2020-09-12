@@ -1,5 +1,5 @@
 Deck
-1 Humble Naturalist (IKO) 160
+2 Humble Naturalist (IKO) 160
 2 Nessian Hornbeetle (THB) 182
 2 Hornbash Mentor (IKO) 159
 1 Aggressive Mammoth (M20) 337
@@ -9,9 +9,9 @@ Deck
 1 Almighty Brushwagg (IKO) 143
 3 Ram Through (IKO) 170
 1 Survivors' Bond (IKO) 172
-25 Forest (UND) 96
+29 Forest (UND) 96
 1 Rabid Bite (M20) 190
-4 Hydra's Growth (THB) 172
+3 Hydra's Growth (THB) 172
 1 Pelt Collector (GRN) 141
 1 Lead the Stampede (IKO) 163
 1 Biogenic Upgrade (RNA) 123
@@ -20,7 +20,11 @@ Deck
 1 Pridemalkin (M21) 196
 1 Elder Gargaroth (M21) 179
 1 Rampaging Brontodon (ANB) 102
-2 Arboreal Grazer (WAR) 149
+2 Moss Viper (THB) 179
 1 Scavenging Ooze (M21) 204
 2 Band Together (WAR) 153
 2 Thundering Ceratok (WAR) 179
+1 Track Down (M21) 211
+1 Wilt (IKO) 176
+1 Barrier Breach (IKO) 145
+1 Colossal Majesty (ANB) 92
