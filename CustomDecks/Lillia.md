@@ -4,6 +4,10 @@ Concept: Cards in hand are dreams, and Lillia gets stronger when opponents’ dr
 
 Win condition: Make opponents draw lots of cards, then one shot them with massive damage that scales with the number of cards they have in hand.
 
+## Sleeping emblem:
+
+“You can’t play cards from your hand. The next time you take damage, take additional damage equal to your hand size and destroy this emblem. Whenever you discard a card, if you have hand size of 7 or less, destroy this emblem.”
+
 Lillia, Bashful Bloom  
 4 cost, 0/1  
 Legendary Enchantment Elk Centaur Creature  
@@ -13,13 +17,17 @@ opponents have no hand size limit
 
 Watch out! Eep!  
 sorcery, 2 cost   
-deal X damage to target opponent, where X is equal to their hand size. If they're Sleeping, deal an additional Y damage to them, where Y is equal to your hand size
+Target opponent draws 3 cards. Deal 1 damage to that opponent.
+
+Blooming Blows  
+sorcery, 2 cost  
+Each opponent draws 1 card and takes 1 damage.
 
 Lilting Lullaby  
 sorcery 3 cost  
-all opponents with hand size 7 or more are now Sleeping (Sleeping players can't play cards from their hand, and lose Sleeping if they take damage)
+all opponents with hand size 7 or more gets a Sleeping emblem (“You can’t play cards from your hand. The next time you take damage, take additional damage equal to your hand size and destroy this emblem. Whenever you discard a card, if you have hand size of 7 or less, destroy this emblem.”)
 
-Blooming Blows  
+Fawn Mower  
 1 cost instant  
 Target opponent draws 1 card. deal 1 damage to up to X creatures that opponent controls, where X is their hand size.
 
@@ -74,14 +82,13 @@ Root Infection
 Destroy target artifact or enchantment with converted mana cost X or less, where X is that artifact’s or enchantment’s controller’s hand size.
 
 Thought Cloud  
-3 mana sorcery  
-Target opponent reveals their hand until the end of their next turn. During this time, each player may 2 mana as an interrupt. If they do, they choose a revealed card. That card’s controller then discards that card and draws 1 card.
+3 mana enchantment  
+Enchant target opponent  
+Enchanted opponent plays with their hand revealed. At the start of their draw step, they may Scry X, where X is their hand size. At the end of their turn, if their hand size is 7 or more, they get a Sleeping emblem.
 
-Melatonin Fruit  
+Dream Melon Garden  
 2 mana enchantment  
-At the end of an opponent’s turn, if their hand size is 7 or more, they are now Sleeping (Sleeping players can’t play cards from their hand. Sleeping ends when the player takes damage)
-
-Tap: target opponent draws a card.
+2 mana: Draw a card. At the end of your turn, if your hand size is 7 or more, you get a Sleeping emblem. Any player may activate this ability.
 
 Prance  
 1 mana instant  
@@ -101,3 +108,7 @@ Bark Scraper
 3 cost, 1/3  
 elk creature  
 tap: tap target land an opponent controls
+
+REM Sleep  
+1 cost instant  
+target opponent with hand size 4 or more draws 3 cards. Draw 2 cards.
