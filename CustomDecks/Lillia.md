@@ -17,15 +17,16 @@ deal X damage to target opponent, where X is equal to their hand size. If they'r
 
 Lilting Lullaby  
 sorcery 3 cost  
-all opponents with hand size 8 or more are now Sleeping (Sleeping players can't play cards from their hand, and lose Sleeping if they take damage)
+all opponents with hand size 7 or more are now Sleeping (Sleeping players can't play cards from their hand, and lose Sleeping if they take damage)
 
 Blooming Blows  
 1 cost instant  
-choose target opponent. deal 1 damage to up to X creatures that opponent controls, where X is their hand size
+Target opponent draws 1 card. deal 1 damage to up to X creatures that opponent controls, where X is their hand size.
 
 Shared Dream  
 2 cost enchantment  
-whenever you draw a card, each opponent draws 1 card
+You draw a card during each player’s draw step.  
+Whenever you draw a card outside a draw step, each opponent draws 1 card.
 
 Bashful Bloom  
 2 cost enchantment  
@@ -45,7 +46,7 @@ Whenever an opponent draws a card outside their draw step, you may return an ins
 
 Lillia, Dream Realizer  
 5 cost, 3/4  
-enchantment elk centaur creature  
+legendary enchantment elk centaur creature  
 Lands opponents control have “Return this land to your hand: Gain 1 mana of any color. Activate only during your main phase.”
 
 Dream-Laden Bough  
@@ -63,24 +64,40 @@ Deal X damage to target creature, where X is that creature’s controller’s ha
 
 Lillia, Strong Capable Dream Fawn  
 5 cost, 5/5  
+legendary enchantment elk centaur creature  
 Trample  
-Whenever an opponent draws a card outside their draw step, Lillia does 1 damage to them.
-
-The Death of the Dreaming Tree  
-2 cost Saga  
-1\. Reveal the top X cards of your deck, put one of the revealed cards in your hand, then put the rest on the bottom of your library in any order, where X is the hand size of target opponent.  
-2\. Gain 2 mana of any color combination. Use this only to play a plant or enchantment creature from your hand.  
-3\. Tap target creature with toughness greater than its power. It doesn’t untap on its controller’s next untap step.  
-4\. Destroy target 2 cost artifact or enchantment.
+Whenever an opponent draws a card outside their draw step, Lillia does 1 damage to them.  
+Other elk centaur creatures you control have +1/+0 and trample.
 
 Root Infection  
 1 cost instant  
 Destroy target artifact or enchantment with converted mana cost X or less, where X is that artifact’s or enchantment’s controller’s hand size.
 
-Chop the Tree  
-2 cost instant  
-Deal 2 damage to target creature. Then if it’s a plant, artifact, or enchantment, destroy it.
-
 Thought Cloud  
 3 mana sorcery  
 Target opponent reveals their hand until the end of their next turn. During this time, each player may 2 mana as an interrupt. If they do, they choose a revealed card. That card’s controller then discards that card and draws 1 card.
+
+Melatonin Fruit  
+2 mana enchantment  
+At the end of an opponent’s turn, if their hand size is 7 or more, they are now Sleeping (Sleeping players can’t play cards from their hand. Sleeping ends when the player takes damage)
+
+Tap: target opponent draws a card.
+
+Prance  
+1 mana instant  
+Tap target permanent you control. If you do, it gains Hexproof until the start of your next turn.
+
+Leaf Grazer  
+2 cost, 2/2  
+elk creature  
+tap, 1 mana: draw a card
+
+Brush Clearer  
+1 cost, 1/1  
+elk creature  
+tap: add 1 mana. If an opponent has a hand size of 7 or more, add 2 mana instead
+
+Bark Scraper  
+3 cost, 1/3  
+elk creature  
+tap: tap target land an opponent controls
