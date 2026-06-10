@@ -1,33 +1,34 @@
-Lillia Dream MTG Deck
+# Lillia Dream MTG Deck
 
-This is different from the previous idea, because that one was based on replicating Lillia’s gameplay from League of Legends in Magic The Gathering. But this idea is more about Lillia’s character and lore.
-
-Concept: Cards in hand are dreams, and Lillia gets stronger when people’s dreams are stronger.
+Concept: Cards in hand are dreams, and Lillia gets stronger when opponents’ dreams are stronger.
 
 Win condition: Make opponents draw lots of cards, then one shot them with massive damage that scales with the number of cards they have in hand.
 
-Some of the following text was copied from notes I took in Google Keep on the bus, and then modified.
-
-lillia legendary  
+Lillia, Bashful Bloom  
 4 cost, 0/1  
+Legendary Enchantment Elk Centaur Creature  
 lillia gains +X/+X and Ward X, where X is the biggest hand size among your opponents.   
 tap: target opponent draws 1 card  
 opponents have no hand size limit
 
-watch out! eep!  
+Watch out! Eep!  
 sorcery, 2 cost   
 deal X damage to target opponent, where X is equal to their hand size. If they're Sleeping, deal an additional Y damage to them, where Y is equal to your hand size
 
-lilting lullaby: sorcery 3 cost  
+Lilting Lullaby  
+sorcery 3 cost  
 all opponents with hand size 8 or more are now Sleeping (Sleeping players can't play cards from their hand, and lose Sleeping if they take damage)
 
-blooming blows: 1 cost instant  
+Blooming Blows  
+1 cost instant  
 choose target opponent. deal 1 damage to up to X creatures that opponent controls, where X is their hand size
 
-shared dream: 2 cost enchantment  
+Shared Dream  
+2 cost enchantment  
 whenever you draw a card, each opponent draws 1 card
 
-bashful bloom: 2 cost enchantment  
+Bashful Bloom  
+2 cost enchantment  
 at the start of your turn, if an opponents hand size is greater than your life total, gain 1 life.  
 whenever you take damage, target opponent discards 1 card.
 
