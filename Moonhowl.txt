@@ -1,0 +1,41 @@
+Deck
+2 Moonrager's Slash (MID) 148
+9 Mountain (HBG) 304
+14 Forest (HBG) 308
+2 Outland Liberator (MID) 190
+1 Pack's Betrayal (MID) 153
+1 Reckless Stormseeker (MID) 157
+2 Howling Moon (VOW) 204
+2 Wolf Strike (VOW) 228
+3 Weaver of Blossoms (VOW) 226
+2 Howlpack Piper (VOW) 205
+2 Burly Breaker (MID) 174
+3 Unnatural Moonrise (MID) 247
+1 Tovolar, Dire Overlord (MID) 246
+1 Arlinn, the Pack's Hope (MID) 211
+2 Racers' Ring (SNC) 253
+1 Rockfall Vale (MID) 266
+4 Rugged Highlands (M21) 249
+1 The Celestus (MID) 252
+1 Volatile Arsonist (VOW) 181
+2 Bird Admirer (MID) 169
+2 Hound Tamer (MID) 187
+1 Howl of the Hunt (MID) 188
+1 Wolfkin Outcast (VOW) 229
+2 Avabruck Caretaker (VOW) 187
+2 Kessig Naturalist (MID) 231
+2 Packsong Pup (VOW) 213
+2 Child of the Pack (VOW) 234
+1 Retrieve (VOW) 215
+2 Oakshade Stalker (VOW) 212
+1 Crystal Grotto (DMU) 246
+1 Secluded Courtyard (NEO) 275
+
+Sideboard
+1 Spellrune Painter (MID) 160
+1 Ill-Tempered Loner (VOW) 162
+1 Snarling Wolf (MID) 199
+1 Ballista Watcher (VOW) 143
+1 Hound Tamer (MID) 187
+1 Fangblade Brigand (MID) 139
+1 Village Watch (MID) 165
