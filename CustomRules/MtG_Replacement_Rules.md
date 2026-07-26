@@ -342,35 +342,35 @@ When this creature or attacks or blocks, and as a result, a creature you don’t
 
 ## Horse
 
-Character Creature – Horse
+Creature – Horse
 
-2/25 *(Attack / Vitality)*  
-\+1/+3 *(Mana Regen / Energy Regen)*
+2 mana  
+2 power
 
 **Bond** Human, Horse *(creatures of these types cost 1 less mana for you to summon them)*  
 **Bane** Minotaur *(creatures of these types cost 1 more mana for you to summon them)*
 
-Whenever one of your attackers become blocked by more than one creature, gain 3 energy.
+Whenever an attacking creature you control becomes blocked by more than one creature, gain 3 energy.
 
 ## Rider
 
 Creature – Human
 
 2 mana  
-2/2
+2 power, +1 attack
 
 **Double Strike**
 
-2 energy: I gain **Cleave** until end of turn. *(Before combat damage is assigned, this creature deals Attack damage to all creatures blocking it)*
+2 energy: I gain **Cleave** until end of turn.
 
 ## Horseshoe Amulet
 
 Artifact Equipment
 
 3 mana  
-3 Integrity
+3 Durability
 
-**Equip** 1 *(1 energy: Attach this to target creature you control. While attached, it has bonus Integrity equal to equipped creature’s Vitality)*
+**Equip** 1
 
 3 energy: Equipped creature become exiled until you visit a land.
 
@@ -380,29 +380,29 @@ Artifact Equipment
 
 Land
 
-\+3/+1  
-1 Defense
+1 mana  
+\+3 mana
 
 **Bond** Centaur  
 **Bane** Minotaur, Human
 
-**Arrival**: Permanents you control have **Hexproof** until you attack next. *(When this card enters the battlefield, trigger this effect)*
+**Arrival**: Permanents you control have **Hexproof** until the next time a creature you control attacks*.*
 
 ## Wammawink
 
 Creature – Llama Centaur Shaman
 
 3 mana  
-1/3
+1 power, +2 health
 
-1 energy: **Heal** target creature 2. *(Remove 2 hit counters)*
+1 energy: **Heal** 2 target creature.
 
 ## Durpleton
 
 Creature – Giraffe Centaur
 
 2 mana  
-2/2
+2 power
 
 **Reach**
 
@@ -413,16 +413,16 @@ Sneak attacks that target your creatures do 1 less damage.
 Creature – Elk Centaur
 
 2 mana  
-2/2
+2 power
 
-5 energy, Discard a card: Equip target Artifact Equipment onto me. If you don’t control it, control is transferred to you.
+5 energy, Discard a card: Steal target Artifact Equipment and equip it onto me.
 
 ## Zulius
 
 Creature – Horse Centaur
 
 2 mana  
-2/2
+2 power
 
 **Arrival**: Target creature can’t attack creatures you control.
 
@@ -431,7 +431,7 @@ Creature – Horse Centaur
 Creature – Bird Centaur
 
 2 mana  
-2/2
+2 power
 
 **Flying**
 
@@ -445,22 +445,22 @@ Sacrifice this: Remove all hit counters from target non-character creature.
 
 ## Dome
 
-Enchantment
+Spell Enchantment (Land)
 
 5 mana
 
-Enchant Land
+**Arrival**: Remove all claim tokens from target land. Add 1 claim token of yours to that land.
 
-Enchanted land can’t be sieged.
+Enchanted Land can’t be sieged.
 
-**Break** – You siege with at least one centaur. *(When this condition occurs, this enchantment is broken)*
+You siege with a Centaur: **Break**.
 
 ## Fish Centaur
 
 Creature – Fish Centaur
 
 1 mana  
-1/1
+1 power
 
 **Arrival**: Create a 1/1 Fish Centaur creature token.
 
@@ -469,21 +469,21 @@ Creature – Fish Centaur
 Creature – Elephant Centaur
 
 3 mana  
-3/3
+3 power
 
 **Trample**
 
 ## Shapely Mane
 
-Invocation
+Spell
 
 2 mana
 
-Create a 1/1 Illusion creature token. Redirect target attack, spell, or ability to target that creature token.
+Create a 1/1 Illusion creature token. That token then blocks target attack, spell, or ability.
 
 ## Sparkle Blinkies
 
-Invocation
+Spell
 
 1 mana
 
@@ -491,7 +491,7 @@ Reduce target attacking creature’s Attack to 0 until end of turn.
 
 ## Handsome for 8 Seconds
 
-Invocation
+Spell
 
 8 mana
 
@@ -499,31 +499,31 @@ Gain 8 energy.
 
 ## Stretchy Neck Times
 
-Invocation
+Spell
 
 2 mana
 
-Reduce target creature with Sniper’s Attack to 0 until end of turn.
+Target creature with Sniper has its Attack reduced to 0 until end of turn.
 
 ## Wobble Legs
 
-Invocation
+Spell
 
 2 mana
 
-**Incapacitate** target attacking creature. *(Rotate card sideways. Incapacitated creatures can’t attack or block. Its controller may pay 2 energy to recapacitate it during their turn.)*
+Cancel target attacking creature’s attack.
 
 ## Portal Tummy
 
-Invocation
+Spell
 
 2 mana
 
-Exile target creature under target creature until that creature leaves the battlefield.
+Exile target creature under second target creature until that second creature leaves the battlefield.
 
 ## Prehensile Eyes
 
-Invocation
+Spell
 
 1 mana
 
@@ -531,7 +531,7 @@ Play target Artifact Equipment card without paying its mana cost, and equip it t
 
 ## When I Blink My Spots Turn Into Pies
 
-Invocation
+Spell
 
 2 mana
 
@@ -539,18 +539,17 @@ Target creature becomes a non-creature artifact until end of turn.
 
 ## I Can Shoot Tiny Versions of Myself From My Hoof
 
-Invocation
+Spell
 
 1 mana
 
-Create a creature token that’s a copy of target creature you control, except it has base Attack/Vitality 1/1.
+Create a creature token that’s a copy of target creature you control, except it has base power 1.
 
 ## Rainbow Road
 
 Land
 
-\+2/+1  
-3 Defense
+\+2 mana
 
 **Bond** Horse, Centaur
 
@@ -559,9 +558,9 @@ Land
 Creature – Elemental Centaur
 
 5 mana  
-5/5
+5 power
 
-Whenever I kill a creature, put a +1/+1 counter on me.
+Whenever I kill a creature, put a +1 power counter on me.
 
 ## Fireflies
 
@@ -569,47 +568,47 @@ Creature – Insect Centaur
 
 1 mana
 
-0/1
+1 power, -1 attack
 
-Flying
+**Flying**
 
-Arrival: I copy the types and base Vitality of target creature.
+**Arrival**: I copy the types and power of target creature.
 
 ## Hyena Centaur
 
 Creature – Cat Centaur
 
 2 mana  
-1/3
+1, +2 health
 
-Artifacts you control can’t be stolen by other players.
+Artifacts you control can’t be stolen.
 
 ## Leaf Centaur
 
 Creature – Plant Centaur
 
 1 mana  
-1/1
+1 power
 
-**Last Words**: Create a 1/1 Plant creature token. *(When this creature dies, activate this effect)*
+**Last Words**: Create a 1 power Plant creature token. *(When this creature dies, activate this effect)*
 
 ## Waterbaby
 
 Creature – Hippo Centaur Shaman
 
 3 mana  
-3/3
+3 power
 
-**Mentor**
+Tap: **Mentor**
 
-2 energy: cast an Invocation with mana value 2 or less without paying its mana cost.
+2 energy: cast a Spell with mana value 2 or less without paying its mana cost.
 
 ## Gebbrey
 
 Creature – Plant Centaur
 
 1 mana  
-1/2
+1 power, +1 health
 
 1 energy: Add 1 mana.
 
@@ -618,27 +617,29 @@ Creature – Plant Centaur
 Creature – Human Shaman
 
 2 mana  
-2/2
+2 power
 
-Arrival: Deal 1 damage to all attacking and blocking creatures you don’t control.
+**Instant**
 
-1 energy: Target creature gains **Haste** until end of turn.
+**Arrival**: Deal 1 damage to all attacking and blocking creatures you don’t control.
+
+1 energy: Untap target creature that entered the battlefield this turn.
 
 ## Houseboat
 
 Land
 
-\+1/+1  
-1 Defense
+1 mana  
+\+1 mana
 
-**Bond** Centaur
+**Bond** Centaur, Hippo, Shaman
 
 ## Rutebegataur
 
 Creature – Plant Centaur
 
 1 mana  
-1/1
+1 power
 
 Sacrifice this: Reduce the mana cost of the next artifact you play by 1 mana.
 
@@ -647,7 +648,7 @@ Sacrifice this: Reduce the mana cost of the next artifact you play by 1 mana.
 Creature – Fish Centaur
 
 1 mana  
-1/1
+1 power
 
 Whenever I am exiled, return me to the battlefield at the end of the turn.
 
@@ -655,16 +656,17 @@ Whenever I am exiled, return me to the battlefield at the end of the turn.
 
 Artifact
 
-1 mana
+1 mana  
+1 durability
 
-Sacrifice this: **Scan** for Artifact Equipment. *(Reveal the top cards of your library until you find a card that meets the criteria, put that card in your hand, then put the revealed cards on the bottom of your library in a random order.)*
+Sacrifice this: **Scan** for Artifact Equipment.
 
 ## Treetaur Forest
 
 Land
 
-\+3/+0  
-5 Defense
+3 mana  
+\+3 mana
 
 **Bond** Centaur, Plant, Shaman  
 **Bane** Minotaur, Llama
@@ -678,7 +680,7 @@ Whenever a creature arrives under your control, you may pay 1 energy. If you do,
 Creature – Plant Centaur Shaman
 
 4 mana  
-2/6
+2 power, +4 health
 
 **Defender**
 
@@ -689,35 +691,33 @@ Creature – Plant Centaur Shaman
 Creature – Llama Centaur
 
 1 mana  
-1/1
+1 power
 
 1 energy: Exile me until end of turn.
 
 ## Nice Farts
 
-Invocation
+Spell
 
 1 mana
 
-Break target enchantment attached to target creature you control.
+**Break** target enchantment attached to target creature you control.
 
 ## Mean Farts
 
-Enchantment
-
-Enchant Creature
+Spell, Enchantment (Creature)
 
 1 mana
 
-Enchanted creature gets -1/-1.
+Enchanted creature gets -1 power.
 
-Whenever enchanted creature attacks, it gets -2/-0 until end of turn.
+Whenever enchanted creature attacks, it gets -2 attack until end of turn.
 
-**Break** – Enchanted creature successfully deals damage to its attack target.
+Enchanted creature attacks and deals damage to its attack target: **Break**.
 
 ## Backstory Magic
 
-Invocation
+Spell
 
 2 mana
 
@@ -725,22 +725,22 @@ Return target creature to its owner’s hand.
 
 ## Horsify
 
-Invocation
+Spell, Enchantment (Creature)
 
 1 mana
 
-Target creature becomes a Horse in addition to its other types and gets base Attack/Vitality 3/3. If it has **Flying**, it loses **Flying**.
+Enchanted creature has the “Horse” tag and has base power 3. It loses **Flying**.
 
 ## Key Pommel
 
 Artifact Equipment
 
 1 mana  
-1 Integrity
+1 Durability
 
 Equip 1
 
-Equipped creature gets +1/+1.
+Equipped creature gets +1 power.
 
 **Collectible** 2
 
@@ -749,7 +749,7 @@ Equipped creature gets +1/+1.
 Creature – Plant Centaur
 
 1 mana  
-1/1
+1 power
 
 **Defender**
 
@@ -760,7 +760,7 @@ Creature – Plant Centaur
 Creature – Rabbit Centaur
 
 1 mana  
-1/1
+1 power
 
 **Skittish** *(Whenever a creature with Attack greater than this creature’s Vitality arrives under an opponent’s control, exile this creature until end of turn)*
 
@@ -769,7 +769,7 @@ Creature – Rabbit Centaur
 Creature – Snake Centaur
 
 1 mana  
-1/1
+1 power
 
 **Deathtouch**
 
@@ -778,16 +778,16 @@ Creature – Snake Centaur
 Creature – Rodent Centaur
 
 1 mana  
-1/1
+1 power
 
-**Banding** 1 *(When this creature attacks with another creature that shares a type, it gets +1/+1 until end of turn)*
+**Banding** 1
 
 ## Deertaur
 
 Creature – Elk Centaur
 
 2 mana  
-2/2
+2 power
 
 **Banding** 2
 
@@ -796,7 +796,7 @@ Creature – Elk Centaur
 Creature – Elk Centaur
 
 2 mana  
-2/2
+2 power
 
 **Bond** Elk
 
@@ -805,7 +805,7 @@ Creature – Elk Centaur
 Creature – Bear Centaur
 
 10 mana  
-10/10
+10 power
 
 **Menace**
 
@@ -813,11 +813,11 @@ Creature – Bear Centaur
 
 ## Magic Fist Punch
 
-Invocation
+Spell
 
 3 mana
 
-Deal 2 damage to target creature and incapacitate it.
+Deal 2 damage to target creature and tap it.
 
 ## Horse Figurine
 
@@ -859,13 +859,12 @@ Artifact
 
 Land
 
-\+5/+5  
-10 Defense
+\+5
 
 **Bond** Bear, Human  
 **Bane** Centaur, Horse
 
-Creatures with summoning sickness have **Skittish**.
+Tapped creatures have **Skittish**.
 
 ## Varnish
 
@@ -881,8 +880,7 @@ Artifact
 
 Land
 
-\+1/+1  
-5 Defense
+\+1/+1
 
 Whenever a creature gets exiled, gain 1 energy.
 
@@ -899,7 +897,7 @@ Sacrifice this: Gain energy equal to target exiled creature’s Attack.
 Creature – Human Skeleton
 
 0 mana  
-0/0
+0 power
 
 **Defender**
 
@@ -910,16 +908,16 @@ Creature – Human Skeleton
 Creature – Spider Centaur
 
 1 mana  
-1/1
+1 power
 
-**Arrival**: Target creature gains +1/+1 until end of turn.
+**Arrival**: Target creature gains +1 power until end of turn.
 
 ## Comfortable Doug
 
 Creature – Mole Centaur
 
 3 mana  
-3/3
+3 power
 
 2 energy: Exile target creature I am blocking until end of turn.
 
@@ -928,33 +926,29 @@ Creature – Mole Centaur
 Creature – Mole Centaur Shaman
 
 4 mana  
-2/5
+2 power, +5 defense
 
 3 energy: Exile target attacking creature until end of turn.
 
 ## Horse’s Tail
 
-Enchantment
-
-Enchant target exiled creature
+Spell Enchantment
 
 2 mana
 
-**Arrival**: Return enchanted creature to the battlefield under your control.
+**Arrival**: Return target exiled creature to the battlefield under your control.
 
-Enchanted creature gets +0/+2.
+That creature gets +2 defense and can’t be exiled.
 
-Enchanted creature can’t be exiled.
-
-**Break** – Enchanted creature becomes blocked by a Cat Creature.
+A Cat Creature blocks that creature: **Break**.
 
 ## Zulius’ Slipper
 
-Artifact Equipment
+Artifact Equipment (1)
 
 1 mana
 
-Equip 1
+1 health
 
 Equipped creature has +2/+0.
 
@@ -965,7 +959,7 @@ Equipped creature can’t be blocked by Cat Creatures.
 Artifact Equipment
 
 1 mana  
-1 Integrity
+1 health
 
 **Collectible** 3
 
@@ -978,7 +972,7 @@ Equipped creature has **Hexproof** while it is not attacking.
 Creature – Cat Centaur
 
 2 mana  
-1/2
+1 power, +1 health
 
 **Arrival**: Play an Artifact Equipment card from your hand without paying its mana cost and attach it to target creature you control.
 
@@ -987,16 +981,16 @@ Creature – Cat Centaur
 Creature – Cat Centaur
 
 3 mana  
-3/3
+3 power
 
-I get +1/+1 for each Artifact Equipment equipped on me.
+I get +1 power for each Artifact Equipment equipped on me.
 
 ## Johnny Tea Time
 
 Creature – Cat Centaur Shaman
 
 4 mana  
-5/3
+3 power, +2 attack
 
 If an artifact you control would get transferred to another player, I deal damage equal to its mana value to target creature instead.
 
@@ -1005,18 +999,18 @@ If an artifact you control would get transferred to another player, I deal damag
 Creature – Cat Centaur
 
 2 mana  
-2/2
+2 power
 
-1 energy: incapacitate target attacking creature.
+1 energy, tap: Cancel target attacking creature’s attack.
 
 ## Shar Glittercat
 
 Creature – Cat Centaur
 
 2 mana  
-2/2
+2 power
 
-1 energy: **Goad** target creature.
+1 energy, tap: **Goad** target creature.
 
 ## Madame Jelly
 
@@ -1112,17 +1106,16 @@ Enchanted creature has -1/-1, **Bond** X, where X is the chosen creature type, a
 
 Land
 
-\+2/+2  
-3 Defense
+\+2 mana
 
-2 energy: incapacitate target wall an opponent controls.
+2 energy: tap target wall an opponent controls.
 
 ## Glendale’s Statue
 
 Artifact
 
 2 mana  
-10 Integrity
+10 Durability
 
 **Collectible** 2
 
@@ -1131,17 +1124,17 @@ Artifact
 Artifact Equipment
 
 1 mana  
-1 Integrity
+1 Durability
 
 Equip 1
 
-Equipped creature gets +1/+1
+Equipped creature gets +1 power
 
 **Collectible** 1
 
 ## It’s Too Dangerous!
 
-Invocation
+Spell
 
 Return target land to its owner’s hand.
 
@@ -1149,8 +1142,7 @@ Return target land to its owner’s hand.
 
 Land
 
-\+0/+0  
-0 Defense
+\+0 mana
 
 **Bond** Elk, Horror
 
@@ -1163,16 +1155,16 @@ This can’t be sieged by players with a total Collectible score of 5 or less.
 Creature – Elk Centaur Horror
 
 15 mana  
-15/15
+15 power
 
-Creatures that attack it have base Attack of 0 until end of turn. Creatures that it blocks have base Attack of 0 until end of turn.
+Creatures that attack it have bonus attack of 0 until end of turn. Creatures that it blocks have bonus attack of 0 until end of turn.
 
-Whenever it deals damage to a creature, that creature gets a -1/-1 counter.
+Whenever it deals damage to a creature, that creature gets -1 power.
 
 ## Sisters’ Reunion
 
-Invocation
+Spell
 
 2 mana
 
-Return target creature from your graveyard or from your exile to the battlefield. Then, place a +1/+1 counter on up to 1 Human Creature you control and up to 1 Horse Creature you control.
+Return target creature from your graveyard or from your exile to the battlefield. Then, place a +1 power counter on up to 1 Human Creature you control and up to 1 Horse Creature you control.
