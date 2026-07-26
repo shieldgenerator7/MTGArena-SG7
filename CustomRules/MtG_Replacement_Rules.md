@@ -117,7 +117,7 @@ When you block, if the blocking creature is not a valid target for the spell or 
 -   Mana is used to cast spells and summon creatures.
 -   Energy is used to activate creature abilities.
 -   You passively gain energy each turn.
--   The card types are Creature, Land, Cast, Artifact.
+-   The card types are Creature, Land, Spell, Artifact.
 -   You can tap a creature to attack.
 -   You can attack creatures, artifacts, and lands.
 -   You can tap a creature to block, changing the target of the attack, spell, or ability to the blocking creature.
@@ -126,20 +126,20 @@ When you block, if the blocking creature is not a valid target for the spell or 
 -   You choose a creature to be your main character card.
 -   Each creature has a power stat, which is their combined attack and defense.
 -   Each creature may have a sword stat for additional attack, or a shield stat for additional defense.
--   Each creature has a mana cost to cast.
+-   Each creature has a mana cost to summon.
 -   Each creature can have special abilities that trigger under certain conditions or cost energy to activate.
 -   There is no max hand size. You still start with 7 cards, and draw 1 card from your library each turn.
 -   When you go to draw a card while your library is empty, your character loses 1 health.
 -   When your character drops to 0 health or less, you lose.
 -   Each player has a hand, library, graveyard, exile pile, mana pool, energy pool, and battle zone.
--   Cast cards are like the old sorceries.
--   Cast cards with the Instant keyword can be cast in reaction to other cards.
+-   Spell cards are like the old sorceries.
+-   Spell cards with the “Instant” keyword can be cast in reaction to other cards.
 -   Trample, Flying, Reach, Deathtouch, First Strike, Double Strike, Menace, Vigilance are all still a thing.
     -   Trample means excess damage is dealt to the original target.
     -   Lifelink is replaced by Lifesteal, which heals the combating creature.
     -   Vigilance means that the creature can untap after attacking or blocking.
 -   Lands passively and/or actively give you mana or energy.
--   “Enchantment” is a keyword for Cast cards that makes the effect permanent.
+-   “Enchantment” is a keyword for spell cards that makes the effect permanent.
 -   Artifacts cant attack or block, unless it is also a Creature.
 -   Lands can be conquered. Instead of dealing damage, a creature can add and remove claim tokens. The player who has the most claim tokens on a land controls it.
 -   Flash is now called “Instant”.
@@ -148,7 +148,7 @@ When you block, if the blocking creature is not a valid target for the spell or 
 
 # Card Types
 
-Card types: Creature, Cast, Artifact, Land, Character.
+Card types: Creature, Spell, Artifact, Land, Character.
 
 Creatures get summoned using mana. They stay on the battlefield and attack and defend, and have abilities. Creatures that are summoned have summoning sickness until your next end step. Creatures with summoning sickness cant attack and cant activate their activable abilities. Creatures with summoning sickness can still block and can still trigger their triggered abilities and have their passive abilities active. Creatures have vitality (health) and power (attack). Creatures can target other permanents to attack, and creatures can be targeted by attacks. Creatures deal damage equal to their power. When a creature takes damage, it gets a hit counter. If a creature has hit counters equal to or greater than its vitality, it dies and goes to the graveyard. If another permanent you control is being targeted for an attack, you may block that attack with a creature. The blocking creature takes the damage instead, and deals damage to the attacking creature or character. If another permanent you control is being targeted by a spell or ability, you may block that spell or ability with a creature, and have that spell or ability target that creature instead. If a creature is not a valid target for the spell or ability it blocks, the spell or ability does nothing. A creature can block only once per turn.
 
