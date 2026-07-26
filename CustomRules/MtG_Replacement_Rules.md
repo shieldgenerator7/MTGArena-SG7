@@ -219,6 +219,125 @@ Lands have these stats:
 
 -   Mana cost
 -   Mana regen
+
+# Keywords
+
+These are keywords that modify cards to give them common abilities.
+
+## Arrival
+
+This keyword triggers when this card enters the battlefield.
+
+## Banding [attack bonus]
+
+When this creature attacks with another creature that shares a type, it gets +1 power until end of turn.
+
+## Bond [tags]
+
+It costs 1 mana less for you to summon a creature with the given tag(s). If there are multiple tags, the same creature gets this discount for each tag it has in the list. The discount can’t cause the mana cost to go below 0.
+
+## Bane [tags]
+
+It costs 1 mana more for you to summon a creature with the given tag(s). If there are multiple tags, the same creature gets this markup for each tag it has in the list.
+
+## Break
+
+This Spell Enchantment ends and is sent to the bottom of its owner’s library.
+
+## Cleave
+
+Before combat damage is assigned, this creature deals damage equal to its bonus attack to all creatures attacking or blocking it.
+
+## Collectible [amount]
+
+This card contributes to your total Collectible score.
+
+At the start of your turn, if your total Collectible score is 10 or more, you win the game.
+
+## Deathtouch
+
+When this creature deals damage to another creature, that creature dies, regardless of how much health it has. However, if the creature is also an artifact, this keyword has no effect.
+
+## Defender
+
+This creature can’t tap to attack.
+
+## Double Strike
+
+This creature deals First Strike damage and regular damage.
+
+## Enchantment
+
+When this Spell enters play, it attaches to its target.
+
+This Spell’s effect is active while it is attached to its target.
+
+If the target leaves the battlefield, this spell returns to the bottom of its owner’s library.
+
+## Equip [energy cost]
+
+Pay the energy cost to attach this Artifact to a creature you control (“equipped creature”). While attached, this artifact can’t be targeted by attacks.
+
+If equipped creature dies, this Artifact detaches and remains on the battlefield.
+
+## First Strike
+
+This creature deals damage first, possibly killing the other creature before it can do damage.
+
+## Flying
+
+This creature’s attacks and abilities can’t be blocked by other creatures, unless that other creature has Flying or Reach.
+
+## Haste
+
+This creature enters untapped.
+
+## Heal X
+
+Remove X damage counters from the target.
+
+## Hexproof
+
+This creature can’t be targeted by spells or abilities opponents control.
+
+This creature can still become the target of spells or abilities that it blocks.
+
+## Instant
+
+This card can be played in reaction to another player’s action.
+
+## Last Words
+
+This keyword triggers when this creature dies.
+
+## LIfesteal
+
+When this creature deals damage, it heals the same amount. The healing is applied before the death check.
+
+## Mentor
+
+Give +1 power to target creature with less power than this creature.
+
+## Reach
+
+This creature can block attacks and abilities of creatures with Flying.
+
+## Scan [criteria]
+
+Look at the top cards of your library until you find a card that meets the criteria, reveal it, put it in your hand, then put the cards you looked at on the bottom of your library in a random order.
+
+## Skittish
+
+Whenever a creature with Attack greater than this creature’s Health arrives under an opponent’s control, exile this creature until end of turn.
+
+## Trample
+
+When this creature deals damage, if it kills the blocking creature, any excess damage counters carry over to the creature’s original target, converting as necessary depending on the type of the target.
+
+## Vigilance
+
+When this creature or attacks or blocks, and as a result, a creature you don’t control dies, this creature untaps.
+
 # Centaurworld Custom Set
 
 ## Horse
