@@ -185,6 +185,11 @@ If another permanent you control is being targeted for an attack, you may block 
 
 If another permanent you control is being targeted by a spell or ability, you may block that spell or ability with a creature, and have that spell or ability target that creature instead. If a creature is not a valid target for the spell or ability it blocks, the spell or ability does nothing. A creature can block only once per turn, because it must tap to do so.
 
+A creature dies if:
+
+-   Its power is 0 or less
+-   It has damage counters equal to or greater than its health
+
 Character: you choose one of your creatures to be your character. It starts in the battle zone untapped. A character can be targeted by attacks, spells, and abilities. A character takes damage like a creature does. A character can be tapped to block attacks, spells, and abilities targeted at other permanents. When your character dies or leaves the battlefield, you lose the game.
 
 ## Spell
@@ -201,10 +206,19 @@ Enchantments are a Spell with the “Enchantment” keyword, meaning it attaches
 
 Artifacts get crafted using mana. They stay on the battlefield and have abilities. Artifacts come into play untapped, unless they are also a creature. Artifacts have integrity (health). Artifacts can be targeted by attacks. When an artifact is attacked, if the attack damage is equal to or greater than its integrity, it gets destroyed and goes to the graveyard. Artifacts cannot block unless it is also a creature.
 
+Artifacts have these stats:
+
+-   Mana cost
+-   Durability
+
 ## Land
 
 Lands can be discovered (played) by paying their mana cost. Lands enter play with an amount of claim tokens equal to the mana spent on it. Lands grant bonus mana regen per turn and often bonus energy regen per turn. They also often have abilities. Lands grant mana cost reduction on certain types of permanents and creatures. Lands can be targeted by creatures to add and remove claim tokens. Claim tokens are specific to each player. The player with the most claim tokens on a land controls it.
 
+Lands have these stats:
+
+-   Mana cost
+-   Mana regen
 # Centaurworld Custom Set
 
 ## Horse
