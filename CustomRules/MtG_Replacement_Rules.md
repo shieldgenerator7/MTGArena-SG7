@@ -65,6 +65,7 @@ On your turn, during your Day phase, you can:
 -   Play cards
 -   Activate abilities
 -   Attack
+-   Siege
 
 ### Play cards
 
@@ -86,9 +87,17 @@ If the target is a creature, both creatures deal damage to each other at the sam
 
 If the target is an artifact, the attacking creature deals damage to the artifact. If the amount of damage is equal to or greater than the artifact’s defense, the artifact is destroyed and is sent to the graveyard.
 
-If the target is a land, the attacking creature adds your claim tokens and/or removes claim tokens of another player. The amount of claim tokens it adds and/or removes is equal to its power. If you have the most claim tokens on a land, you control it.
-
 If the target is multiple types, all applicable rules apply to it.
+
+### Siege
+
+You can siege a land to add/or remove claim counters on it. When you declare a siege, tap any amount of creatures you control to siege with. This counts as an attack on the land for the purposes of other players reacting.
+
+When at least 1 creature goes unblocked and successfully sieges the land, calculate your total siege power. Your siege power is equal to the total power of the sieging creatures that got through. For each siege power, add 1 claim token of yours or remove 1 claim token of another player’s.
+
+If you have the most claim tokens on a land, you control it.
+
+You may only siege each land once per turn.
 
 ## On other players’ turns
 
