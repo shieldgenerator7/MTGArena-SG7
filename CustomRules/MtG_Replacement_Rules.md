@@ -32,8 +32,9 @@ Each turn consists of these phases:
     1.  Gain mana
     2.  Gain energy
     3.  Heal
-    4.  Untap permanents
-    5.  Draw a card
+    4.  Claim (optional)
+    5.  Untap permanents
+    6.  Draw a card
 2.  Day phase
     1.  Play cards (optional)
     2.  Activate abilities (optional)
@@ -50,6 +51,8 @@ Gain mana. You always gain at least 1 mana. For each land you control, collect i
 Gain energy. You don’t automatically gain energy. For each creature you control, you gain at least 1 energy. Add the energy to your energy pool.
 
 Heal. Choose a permanent to heal 1. To heal, remove a damage counter from it.
+
+Claim. Choose a land you control, and add 1 claim token of yours to that land or remove 1 claim token of another player from that land.
 
 Untap all permanents you control: creatures, artifacts, and lands. Untap your character.
 
