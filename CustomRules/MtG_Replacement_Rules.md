@@ -131,7 +131,7 @@ When you block, if the blocking creature is not a valid target for the spell or 
 -   There is no max hand size. You still start with 7 cards, and draw 1 card from your library each turn.
 -   When you go to draw a card while your library is empty, your character loses 1 health.
 -   When your character drops to 0 health or less, you lose.
--   Each player has a hand, library, graveyard, exile pile, and battle zone.
+-   Each player has a hand, library, graveyard, exile pile, mana pool, energy pool, and battle zone.
 -   Cast cards are like the old sorceries.
 -   Cast cards with the Instant keyword can be cast in reaction to other cards.
 -   Trample, Flying, Reach, Deathtouch, First Strike, Double Strike, Menace, Vigilance are all still a thing.
@@ -141,8 +141,8 @@ When you block, if the blocking creature is not a valid target for the spell or 
 -   Lands passively and/or actively give you mana or energy.
 -   “Enchantment” is a keyword for Cast cards that makes the effect permanent.
 -   Artifacts cant attack or block, unless it is also a Creature.
--   Lands cant be destroyed but can be conquered. When its dealt lethal damage, the player that dealt it takes control of the land, and any/all enchantments on the land. Then heal the land to full.
--   Flash is now called Instant.
+-   Lands can be conquered. Instead of dealing damage, a creature can add and remove claim tokens. The player who has the most claim tokens on a land controls it.
+-   Flash is now called “Instant”.
 -   Split-second is not a keyword.
 -   The library min size will still be 60.
 
