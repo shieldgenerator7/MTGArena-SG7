@@ -31,8 +31,9 @@ Each turn consists of these phases:
 1.  Morning phase
     1.  Gain mana
     2.  Gain energy
-    3.  Untap permanents
-    4.  Draw a card
+    3.  Heal
+    4.  Untap permanents
+    5.  Draw a card
 2.  Day phase
     1.  Play cards (optional)
     2.  Activate abilities (optional)
@@ -47,6 +48,8 @@ At the start of your turn, you do these things.
 Gain mana. You always gain at least 1 mana. For each land you control, collect its passive mana. Add the mana to your mana pool. You have no max mana and mana carries over to the next round.
 
 Gain energy. You don’t automatically gain energy. For each creature you control, you gain at least 1 energy. Add the energy to your energy pool.
+
+Heal. Choose a permanent to heal 1. To heal, remove a damage counter from it.
 
 Untap all permanents you control: creatures, artifacts, and lands. Untap your character.
 
