@@ -66,6 +66,8 @@ Each card has a mana cost to play. To cast it, remove the required mana from you
 
 When you play a land, you can spend any amount of extra mana. The land enters play in your battle zone with your claim tokens on it. The amount of claim tokens is equal to the amount of mana you spent to play it.
 
+When you play a creature, it comes into play tapped. Tapped creatures can’t attack, block, or activate abilities, and their passive abilities aren’t active, and their triggered abilities don’t trigger.
+
 ### Activate abilities
 
 Some permanents have activatable abilities that cost energy to activate. To activate it, remove the required energy from your energy pool.
@@ -134,7 +136,7 @@ When you block, if the blocking creature is not a valid target for the spell or 
 -   Each player has a hand, library, graveyard, exile pile, mana pool, energy pool, and battle zone.
 -   Spell cards are like the old sorceries.
 -   Spell cards with the “Instant” keyword can be cast in reaction to other cards.
--   Trample, Flying, Reach, Deathtouch, First Strike, Double Strike, Menace, Vigilance are all still a thing.
+-   Trample, Flying, Reach, Deathtouch, First Strike, Double Strike, Menace, Vigilance, Haste are all still a thing.
     -   Trample means excess damage is dealt to the original target.
     -   Lifelink is replaced by Lifesteal, which heals the combating creature.
     -   Vigilance means that the creature can untap after attacking or blocking.
