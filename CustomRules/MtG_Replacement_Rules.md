@@ -4,21 +4,20 @@ Trying to make a game that’s like MtG but without the parts that I don’t lik
 
 # Changes
 
-I don’t like having to work with multiple colors of mana, so that’s gone. Instead mana is always colorless.
-
-I don’t like having to draw cards that give mana, because that can result in mana flooding or mana hosing. Instead, you gain mana each turn. And there’s no max mana, so you can save it up.
-
-Mana is how you cast spells and summon creatures. You can’t use mana to activate abilities though. You use energy for that. You gain energy each turn and for doing certain actions. You can spend energy to activate creature abilities.
-
-I don’t like that you can’t attack creatures, enchantments, or artifacts, unless you have a spell that does so specifically. So now you can target anything. But then everything is vulnerable to attack, so you still have the MtG rules where you can block with anything.
-
-Players no longer have a health pool, instead you have a character card which has the health pool. The character also has a name, energy regen per turn, mana regen per turn, and other things. Such as passives, activatable abilities, and how they gain extra energy and/or mana.
-
-So if you wanted to make custom cards, you can play as your favorite character from a tv show and have the other cards be their friends that you can play from your hand.
-
-In a way, the character cards are equivalent to Commander cards from MtG. Except character cards cant as easily be used as regular cards.
-
-Each creature has a power and toughness like in MtG, and a mana cost to cast. They can also have special abilities that trigger under certain conditions or cost energy to activate.
+-   Mana is always colorless.
+-   You gain mana passively each turn.
+-   There’s no max mana.
+-   Mana carries over between turns.
+-   Mana is used to cast spells and summon creatures.
+-   Energy is used to activate creature abilities.
+-   You passively gain energy each turn.
+-   You can attack creatures, enchantments, artifacts, and lands.
+-   You can block an attack with a creature.
+-   You no longer have a health pool.
+-   You have a character card which has stats: a name, health pool, mana regen per turn, energy regen per turn. It also has abilities.
+-   Each creature has a power and toughness.
+-   Each creature has a mana cost to cast.
+-   Each creature can have special abilities that trigger under certain conditions or cost energy to activate.
 
 Creatures that attack on your turn can also defend afterwards. Basically, all creatures automatically have Vigilance.
 
