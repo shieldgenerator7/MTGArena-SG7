@@ -158,19 +158,43 @@ When you block, if the blocking creature is not a valid target for the spell or 
 
 Card types: Creature, Spell, Artifact, Land, Character.
 
-Creatures get summoned using mana. They stay on the battlefield and attack and block, and have abilities. Creatures that are summoned come into play tapped. Tapped creatures cant attack and cant activate their activable abilities. Creatures have power, bonus attack, and bonus defense. When they attack, they deal damage equal to their power plus their bonus attack. Their health is equal to their power plus bonus defense. When they have wound counters equal to their health, they die and get sent to the graveyard. Creatures can target other permanents to attack, and creatures can be targeted by attacks. If another permanent you control is being targeted for an attack, you may block that attack with a creature. The blocking creature takes the damage instead, and deals damage to the attacking creature. If another permanent you control is being targeted by a spell or ability, you may block that spell or ability with a creature, and have that spell or ability target that creature instead. If a creature is not a valid target for the spell or ability it blocks, the spell or ability does nothing. A creature can block only once per turn.
+## Creature
 
-Spell cards get played from the hand using mana, take their effect, and then return to the bottom of the library.
+A creature is a card that stays on the battlefield and can attack and block, and have abilities.
 
-Artifacts get crafted using mana. They stay on the battlefield and have abilities. Artifacts come into play untapped, unless they are also a creature. Artifacts have integrity (health). Artifacts can be targeted by attacks. When an artifact is attacked, if the attack damage is equal to or greater than its integrity, it gets destroyed and goes to the graveyard. Artifacts cannot block unless it is also a creature.
+Playing a creature is called “summoning”. When you summon a creature, it enters play tapped.
+
+Tapped creatures cant attack, block, or activate their activatable abilities, and their passive abilities are inactive and their triggered abilities don’t trigger.
+
+A Creature has a mana cost, power, bonus attack, bonus defense, and a name, tags, ability, and flavor text.
+
+When they attack, they deal damage equal to their power plus their bonus attack. Their health is equal to their power plus bonus defense. When they have wound counters equal to their health, they die and get sent to the graveyard.
+
+Creatures can target other permanents to attack, and creatures can be targeted by attacks. A creature can only attack once per turn, because it taps to do so.
+
+If another permanent you control is being targeted for an attack, you may block that attack with a creature. The blocking creature takes the damage instead, and deals damage to the attacking creature.
+
+If another permanent you control is being targeted by a spell or ability, you may block that spell or ability with a creature, and have that spell or ability target that creature instead. If a creature is not a valid target for the spell or ability it blocks, the spell or ability does nothing. A creature can block only once per turn, because it must tap to do so.
+
+Character: you choose one of your creatures to be your character. It starts in the battle zone untapped. A character can be targeted by attacks, spells, and abilities. A character takes damage like a creature does. A character can be tapped to block attacks, spells, and abilities targeted at other permanents. When your character dies or leaves the battlefield, you lose the game.
+
+## Spell
+
+A Spell is a card that does an effect, and then goes away.
+
+Playing a Spell is called “casting”. When you cast a spell, it takes its effect, and then it gets sent to the bottom of the library.
+
+Some spells have the “Enchantment” keyword, which mean it stays attached to its target, and its effect lasts while it is in play. If it leaves play, its effect stops.
 
 Enchantments are a Spell with the “Enchantment” keyword, meaning it attaches to its target and is permanent. Enchantments often state what kinds of valid permanents it can enchant. Enchantments can only be targeted by effects that specifically state they can target enchantments. Enchantments often have an exit clause, which is a condition that specifies how the enchantment can be broken. When an Enchantment is broken, it gets sent to the graveyard.
 
+## Artifact
+
+Artifacts get crafted using mana. They stay on the battlefield and have abilities. Artifacts come into play untapped, unless they are also a creature. Artifacts have integrity (health). Artifacts can be targeted by attacks. When an artifact is attacked, if the attack damage is equal to or greater than its integrity, it gets destroyed and goes to the graveyard. Artifacts cannot block unless it is also a creature.
+
+## Land
+
 Lands can be discovered (played) by paying their mana cost. Lands enter play with an amount of claim tokens equal to the mana spent on it. Lands grant bonus mana regen per turn and often bonus energy regen per turn. They also often have abilities. Lands grant mana cost reduction on certain types of permanents and creatures. Lands can be targeted by creatures to add and remove claim tokens. Claim tokens are specific to each player. The player with the most claim tokens on a land controls it.
-
-Character: you choose one of your creatures to be your character. It starts in the battle zone untapped. A character can be targeted by attacks, spells, and abilities. A character takes damage like a creature does. When your character dies, you lose the game. A character can be tapped to block attacks, spells, and abilities targeted at other permanents.
-
-At the beginning of your turn, your character or one of your permanents Heal 1 automatically. To heal, remove a hit counter from the permanent.
 
 # Centaurworld Custom Set
 
