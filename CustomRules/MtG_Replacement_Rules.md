@@ -117,7 +117,7 @@ When you block, if the blocking creature is not a valid target for the spell or 
 -   Mana is used to cast spells and summon creatures.
 -   Energy is used to activate creature abilities.
 -   You passively gain energy each turn.
--   The card types are Creature, Land, Cast, Enchantment, Artifact.
+-   The card types are Creature, Land, Cast, Artifact.
 -   You can tap a creature to attack.
 -   You can attack creatures, artifacts, and lands.
 -   You can tap a creature to block, changing the target of the attack, spell, or ability to the blocking creature.
@@ -139,7 +139,7 @@ When you block, if the blocking creature is not a valid target for the spell or 
     -   Lifelink is replaced by Lifesteal, which heals the combating creature.
     -   Vigilance means that the creature can untap after attacking or blocking.
 -   Lands passively and/or actively give you mana or energy.
--   Enchantments can only be cast onto other permanents. Which permanents you can enchant with an enchantment depends on the particular enchantment.
+-   “Enchantment” is a keyword for Cast cards that makes the effect permanent.
 -   Artifacts cant attack or block, unless it is also a Creature.
 -   Lands cant be destroyed but can be conquered. When its dealt lethal damage, the player that dealt it takes control of the land, and any/all enchantments on the land. Then heal the land to full.
 -   Flash is now called Instant.
@@ -148,7 +148,7 @@ When you block, if the blocking creature is not a valid target for the spell or 
 
 # Card Types
 
-Card types: Creature, Cast, Artifact, Enchantment, Land, Character.
+Card types: Creature, Cast, Artifact, Land, Character.
 
 Creatures get summoned using mana. They stay on the battlefield and attack and defend, and have abilities. Creatures that are summoned have summoning sickness until your next end step. Creatures with summoning sickness cant attack and cant activate their activable abilities. Creatures with summoning sickness can still block and can still trigger their triggered abilities and have their passive abilities active. Creatures have vitality (health) and power (attack). Creatures can target other permanents to attack, and creatures can be targeted by attacks. Creatures deal damage equal to their power. When a creature takes damage, it gets a hit counter. If a creature has hit counters equal to or greater than its vitality, it dies and goes to the graveyard. If another permanent you control is being targeted for an attack, you may block that attack with a creature. The blocking creature takes the damage instead, and deals damage to the attacking creature or character. If another permanent you control is being targeted by a spell or ability, you may block that spell or ability with a creature, and have that spell or ability target that creature instead. If a creature is not a valid target for the spell or ability it blocks, the spell or ability does nothing. A creature can block only once per turn.
 
