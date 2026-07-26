@@ -2,6 +2,112 @@ MtG Replacement
 
 Trying to make a game that’s like MtG but without the parts that I don’t like.
 
+# Goal
+
+Be the last player standing.
+
+# Setup
+
+Each player does these steps:
+
+1.  Make a deck with at least 60 cards.
+    1.  No more than 4 copies of any one card.
+    2.  Must have at least 1 creature.
+2.  Choose a creature card from your deck to be your character.
+    1.  Place your character in your battle zone.
+    2.  If its defense is less than 20, give it shield counters until its defense is 20.
+3.  Shuffle your library.
+4.  Draw 7 cards.
+5.  Create your battle zone, mana pool, and energy pool.
+
+# Gameplay
+
+Each player takes their turn one at a time in order.
+
+## Turn Phases
+
+Each turn consists of these phases:
+
+1.  Morning phase
+    1.  Gain mana
+    2.  Gain energy
+    3.  Untap permanents
+    4.  Draw a card
+2.  Day phase
+    1.  Play cards (optional)
+    2.  Activate abilities (optional)
+    3.  Attack (optional)
+3.  Evening phase
+    1.  Discard down to your hand size limit (7)
+
+## Morning Phase
+
+At the start of your turn, you do these things.
+
+Gain mana. You always gain at least 1 mana. For each land you control, collect its passive mana. Add the mana to your mana pool. You have no max mana and mana carries over to the next round.
+
+Gain energy. You don’t automatically gain energy. For each creature you control, you gain at least 1 energy. Add the energy to your energy pool.
+
+Untap all permanents you control: creatures, artifacts, and lands. Untap your character.
+
+Draw a card from your library. If your library is empty, your character takes 1 damage.
+
+## Day Phase
+
+On your turn, during your Day phase, you can:
+
+-   Play cards
+-   Activate abilities
+-   Attack
+
+### Play cards
+
+Each card has a mana cost to play. To cast it, remove the required mana from your mana pool.
+
+When you play a land, you can spend any amount of extra mana. The land enters play in your battle zone with your claim tokens on it. The amount of claim tokens is equal to the amount of mana you spent to play it.
+
+### Activate abilities
+
+Some permanents have activatable abilities that cost energy to activate. To activate it, remove the required energy from your energy pool.
+
+### Attack
+
+Each untapped creature can attack on your turn. To have a creature attack, tap it and declare which target it is attacking.
+
+If the target is a creature, both creatures deal damage to each other at the same time. The amount of damage a creature deals is equal to their attack stat. Their attack stat is equal to their bonus attack plus their power (default bonus attack is 0). Damage is dealt to creatures in wound counters. When has an amount of wound counters equal to or greater than its defense, it dies and is sent to the graveyard.
+
+If the target is an artifact, the attacking creature deals damage to the artifact. If the amount of damage is equal to or greater than the artifact’s defense, the artifact is destroyed and is sent to the graveyard.
+
+If the target is a land, the attacking creature adds your claim tokens and/or removes claim tokens of another player. The amount of claim tokens it adds and/or removes is equal to its power. If you have the most claim tokens on a land, you control it.
+
+If the target is multiple types, all applicable rules apply to it.
+
+## On other players’ turns
+
+There are things you can do when it’s not your turn. When another player plays a card, activates an ability, or attacks, you can react to it.
+
+You can react by playing a card, activating an ability, or blocking.
+
+### Play a card
+
+You can play a card if that card has the Instant keyword. Its effect resolves before the effect of the action before it.
+
+### Activate an ability
+
+You can activate the ability of a creature you control. Spend the required amount of energy from your energy pool to activate it.
+
+However, if the previous action was a creature ability activation, your creature must have power equal to or less than the other creature’s power in order to interrupt it *(“Smaller” creatures are faster)*.
+
+### Block
+
+You can block an attack. When an attack is declared, you can tap a creature you control to block the attack, causing the attack to instead target the blocking creature.
+
+You can block a spell cast. When a spell targets one or more permanents, you can tap a creature you control to block the spell, causing it to change one of its targets to the blocking creature.
+
+You can block an activated ability. When an activated ability targets one or more permanents, you can tap a creature you control to block the ability, causing it to change one of its targets to the blocking creature.
+
+When you block, if the blocking creature is not a valid target for the spell or activated ability, then the spell or ability is wasted.
+
 # Changes
 
 -   Mana is always colorless.
