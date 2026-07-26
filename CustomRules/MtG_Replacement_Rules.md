@@ -15,8 +15,9 @@ Trying to make a game that’s like MtG but without the parts that I don’t lik
 -   You can tap a creature to attack.
 -   You can attack creatures, artifacts, and lands.
 -   You can tap a creature to block, changing the target of the attack, spell, or ability to the blocking creature.
+-   Creatures don’t auto-heal at the end of each turn.
 -   You no longer have a health pool.
--   You have a character card which has stats: a name, health pool, mana regen per turn, energy regen per turn. It also has abilities.
+-   You choose a creature to be your main character card.
 -   Each creature has a power stat, which is their combined attack and defense.
 -   Each creature may have a sword stat for additional attack, or a shield stat for additional defense.
 -   Each creature has a mana cost to cast.
@@ -24,7 +25,6 @@ Trying to make a game that’s like MtG but without the parts that I don’t lik
 -   There is no max hand size. You still start with 7 cards, and draw 1 card from your library each turn.
 -   When you go to draw a card while your library is empty, your character loses 1 health.
 -   When your character drops to 0 health or less, you lose.
--   Characters have an attack damage stat that they can use to attack the other player’s character.
 -   Each player has a hand, library, graveyard, exile pile, and battle zone.
 -   Cast cards are like the old sorceries.
 -   Cast cards with the Instant keyword can be cast in reaction to other cards.
