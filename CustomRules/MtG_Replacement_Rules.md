@@ -11,35 +11,33 @@ Trying to make a game that’s like MtG but without the parts that I don’t lik
 -   Mana is used to cast spells and summon creatures.
 -   Energy is used to activate creature abilities.
 -   You passively gain energy each turn.
--   You can attack creatures, enchantments, artifacts, and lands.
--   You can block an attack with a creature.
+-   The card types are Creature, Land, Cast, Enchantment, Artifact.
+-   You can tap a creature to attack.
+-   You can attack creatures, artifacts, and lands.
+-   You can tap a creature to block, changing the target of the attack, spell, or ability to the blocking creature.
 -   You no longer have a health pool.
 -   You have a character card which has stats: a name, health pool, mana regen per turn, energy regen per turn. It also has abilities.
--   Each creature has a power and toughness.
+-   Each creature has a power stat, which is their combined attack and defense.
+-   Each creature may have a sword stat for additional attack, or a shield stat for additional defense.
 -   Each creature has a mana cost to cast.
 -   Each creature can have special abilities that trigger under certain conditions or cost energy to activate.
--   Creatures that attack on your turn can also defend afterwards. Basically, all creatures automatically have Vigilance.
 -   There is no max hand size. You still start with 7 cards, and draw 1 card from your library each turn.
--   When you run out of cards in your library, nothing happens.
--   You play until someone’s character drops to 0 health.
--   If you run out of cards, don’t worry. Characters also have an attack damage stat that they can use to attack the other player’s character.
--   There’s still the graveyard and exile piles.
--   There’s no more sorceries. Instead, every spell can be cast at instant speed. So there’s Cast cards which are the combined Instant and Sorcery types.
--   There’s still Enchantments and Artefacts, and Equipments.
--   Trample, Flying, Reach, Lifelink, Deathtouch, First Strike, Double Strike, Menace, are all still a thing. Vigilance isn’t because all creatures automatically have it.
--   Creatures are still a thing of course.
--   Planeswalkers aren’t. Characters are basically Planeswalkers.
--   You could have more than one Character in your deck, but only your main character’s health matters for whether or not you win or lose the game.
--   Lands *are* still a thing. But they’re not required for mana or energy. They do passively and/or actively give you mana or energy, but may also do other things.
--   Ok maybe enchantments are still a thing, but they’re not permanents like they are in MtG. They can only be cast onto other permanents, like Lands, Creatures, and Artifacts. Which permanents you can enchant with an enchantment depends on the particular enchantment.
--   Artifacts can be attacked and destroyed like creatures and Characters.
--   Artifacts cant be used to block unless it is also a Creature.
--   Lands cant usually be destroyed but can be conquered. When its dealt “lethal” damage, the player tht dealt it takes control of the land, and any/all enchantments on the land.
--   Enchantments cant be attacked normally, so to remove them, they probably have individual conditions that will cause them to be removed.
--   Flash is also no longer a keyword because everything can be cast at instant speed.
--   Split-second is also not a keyword because I think it’s lame.
--   Cascade can be a thing but it’s niche.
--   Maybe Cast cards will go to the bottom of your library when you play them.
+-   When you go to draw a card while your library is empty, your character loses 1 health.
+-   When your character drops to 0 health or less, you lose.
+-   Characters have an attack damage stat that they can use to attack the other player’s character.
+-   Each player has a hand, library, graveyard, exile pile, and battle zone.
+-   Cast cards are like the old sorceries.
+-   Cast cards with the Instant keyword can be cast in reaction to other cards.
+-   Trample, Flying, Reach, Deathtouch, First Strike, Double Strike, Menace, Vigilance are all still a thing.
+    -   Trample means excess damage is dealt to the original target.
+    -   Lifelink is replaced by Lifesteal, which heals the combating creature.
+    -   Vigilance means that the creature can untap after attacking or blocking.
+-   Lands passively and/or actively give you mana or energy.
+-   Enchantments can only be cast onto other permanents. Which permanents you can enchant with an enchantment depends on the particular enchantment.
+-   Artifacts cant attack or block, unless it is also a Creature.
+-   Lands cant be destroyed but can be conquered. When its dealt lethal damage, the player that dealt it takes control of the land, and any/all enchantments on the land. Then heal the land to full.
+-   Flash is now called Instant.
+-   Split-second is not a keyword.
 -   The library min size will still be 60.
 
 # Card Types
