@@ -99,6 +99,12 @@ If you have the most claim tokens on a land, you control it.
 
 You may only siege each land once per turn.
 
+## Evening Phase
+
+You may discard cards down to your hand size limit, which is 7 by default.
+
+If you have more cards than your hand size limit, you take 1 damage.
+
 ## On other players’ turns
 
 There are things you can do when it’s not your turn. When another player plays a card, activates an ability, or attacks, you can react to it.
@@ -125,43 +131,66 @@ You can block an activated ability. When an activated ability targets one or mor
 
 When you block, if the blocking creature is not a valid target for the spell or activated ability, then the spell or ability is wasted.
 
-# Changes
+# “It’s like MtG, but…”
 
--   Mana is always colorless.
--   You gain mana passively each turn.
--   There’s no max mana.
--   Mana carries over between turns.
--   Mana is used to cast spells and summon creatures.
--   Energy is used to activate creature abilities.
--   You passively gain energy each turn.
--   The card types are Creature, Land, Spell, Artifact.
--   You can tap a creature to attack.
--   You can attack creatures, artifacts, and lands.
--   You can tap a creature to block, changing the target of the attack, spell, or ability to the blocking creature.
--   Creatures don’t auto-heal at the end of each turn.
--   You no longer have a health pool.
--   You choose a creature to be your main character card.
--   Each creature has a power stat, which is their combined attack and defense.
--   Each creature may have a sword stat for additional attack, or a shield stat for additional defense.
--   Each creature has a mana cost to summon.
--   Each creature can have special abilities that trigger under certain conditions or cost energy to activate.
--   There is no max hand size. You still start with 7 cards, and draw 1 card from your library each turn.
--   When you go to draw a card while your library is empty, your character loses 1 health.
--   When your character drops to 0 health or less, you lose.
--   Each player has a hand, library, graveyard, exile pile, mana pool, energy pool, and battle zone.
--   Spell cards are like the old sorceries.
--   Spell cards with the “Instant” keyword can be cast in reaction to other cards.
--   Trample, Flying, Reach, Deathtouch, First Strike, Double Strike, Menace, Vigilance, Haste are all still a thing.
+If you’re familiar with Magic the Gathering, here’s the changes from that game.
+
+-   Mana
+    -   Mana is always colorless.
+    -   There’s no max mana.
+    -   You passively gain 1 mana each turn.
+    -   Mana carries over between turns.
+    -   Lands increase passive mana generation
+    -   Mana is only used to cast spells, summon creatures, craft artifacts, and discover lands. Activating abilities and equipping equipment costs energy.
+-   Energy
+    -   New resource
+    -   Energy is used to activate abilities of creatures, artifacts, and lands.
+    -   You passively gain energy each turn.
+-   Terms
+    -   “Spell” no longer refers to any card, but rather a specific card type
+-   Card types
+    -   The card types are Creature, Land, Spell, Artifact.
+    -   Sorcery is now called Spell
+    -   Instant is now a Spell with the “Instant” keyword
+    -   Flash is renamed to “Instant”
+    -   Enchantments are now a Spell with the “Enchantment” keyword
+    -   Removed: Planeswalker, Battle, and other non-standard types
+-   Combat
+    -   There’s no combat phase
+    -   You can tap creatures to attack separately or all together
+    -   You can attack any number of times on your turn
+    -   You can tap a creature to block an attack, becoming the new target of the attack
+        -   You can block spells and abilities as well
+    -   You can attack creatures and artifacts
+    -   You can siege each land once per turn
+    -   Creatures take damage in the form of damage counters
+    -   Creatures don’t auto-heal at the end of each turn.
+    -   Lands can be conquered. Instead of dealing damage, a creature can add and remove claim tokens. The player who has the most claim tokens on a land controls it.
+-   Player
+    -   You no longer have a health pool.
+    -   You choose a creature to be your main character card.
+    -   Your character starts the game on your battlefield untapped.
+    -   When your character dies, you lose the game.
+-   Creatures
+    -   Each creature has a power stat, which is their combined attack and defense.
+    -   Each creature may have a sword stat for additional attack, or a shield stat for additional defense.
+    -   A creature’s activatable abilities cost energy to activate, and not mana
+    -   Summoning sickness is removed; creatures enter play tapped
+    -   Tapped creatures cant do anything, and their abilities are inactive
+-   Phases
+    -   You can heal 1 at the start of your turn
+    -   Discarding down to your hand size limit is optional. You take damage if you don’t.
+-   Ending the game
+    -   When your character drops to 0 health or less, you lose.
+    -   When you go to draw a card while your library is empty, your character loses 1 health.
+    -   When you end your turn with more cards than your hand size limit, your character loses 1 health.
+-   Keywords
+    -   Kept: Trample, Flying, Reach, Deathtouch, First Strike, Double Strike, Menace, Vigilance, and more
     -   Trample means excess damage is dealt to the original target.
-    -   Lifelink is replaced by Lifesteal, which heals the combating creature.
-    -   Vigilance means that the creature can untap after attacking or blocking.
--   Lands passively and/or actively give you mana or energy.
--   “Enchantment” is a keyword for spell cards that makes the effect permanent.
--   Artifacts cant attack or block, unless it is also a Creature.
--   Lands can be conquered. Instead of dealing damage, a creature can add and remove claim tokens. The player who has the most claim tokens on a land controls it.
--   Flash is now called “Instant”.
--   Split-second is not a keyword.
--   The library min size will still be 60.
+    -   Lifelink is replaced by Lifesteal, which heals the combating creature only.
+    -   Vigilance means that the creature can untap after successfully attacking or blocking.
+    -   Flash is renamed to “Instant”
+    -   Removed: Split-second
 
 # Card Types
 
@@ -190,7 +219,7 @@ A creature dies if:
 -   Its power is 0 or less
 -   It has damage counters equal to or greater than its health
 
-Character: you choose one of your creatures to be your character. It starts in the battle zone untapped. A character can be targeted by attacks, spells, and abilities. A character takes damage like a creature does. A character can be tapped to block attacks, spells, and abilities targeted at other permanents. When your character dies or leaves the battlefield, you lose the game.
+Character: you choose one of your creatures to be your character. It starts in the battle zone untapped. When your character dies or leaves the battlefield, you lose the game.
 
 ## Spell
 
