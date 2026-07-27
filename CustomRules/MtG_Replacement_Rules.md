@@ -288,6 +288,10 @@ This creature deals damage first, possibly killing the other creature before it 
 
 This creature’s attacks and abilities can’t be blocked by other creatures, unless that other creature has Flying or Reach.
 
+## Goad
+
+Target creature is forced to attack an opposing creature. It must target a creature other than this creature, if able.
+
 ## Haste
 
 This creature enters untapped.
@@ -301,6 +305,10 @@ Remove X damage counters from the target.
 This creature can’t be targeted by spells or abilities opponents control.
 
 This creature can still become the target of spells or abilities that it blocks.
+
+## Indestructible
+
+This card can’t be sent from the battlefield to the graveyard.
 
 ## Instant
 
@@ -859,7 +867,8 @@ Artifact
 
 Land
 
-\+5
+5 mana  
+\+5 mana
 
 **Bond** Bear, Human  
 **Bane** Centaur, Horse
@@ -880,7 +889,8 @@ Artifact
 
 Land
 
-\+1/+1
+1 mana  
+\+1 mana
 
 Whenever a creature gets exiled, gain 1 energy.
 
@@ -919,7 +929,7 @@ Creature – Mole Centaur
 3 mana  
 3 power
 
-2 energy: Exile target creature I am blocking until end of turn.
+2 energy, Tap: Exile target attacking creature until end of turn.
 
 ## Judge Moletaur
 
@@ -946,11 +956,10 @@ A Cat Creature blocks that creature: **Break**.
 
 Artifact Equipment (1)
 
-1 mana
+1 mana  
+1 durability
 
-1 health
-
-Equipped creature has +2/+0.
+Equipped creature has +2 attack.
 
 Equipped creature can’t be blocked by Cat Creatures.
 
@@ -959,13 +968,13 @@ Equipped creature can’t be blocked by Cat Creatures.
 Artifact Equipment
 
 1 mana  
-1 health
+1 durability
 
 **Collectible** 3
 
-Whenever a creature arrives, if its Attack is the highest among creatures on the battlefield, equip this onto it and transfer control of this to that creature’s controller.
+Whenever a creature arrives, if its Attack is the highest among creatures on the battlefield, its player steals this equipment and equips it onto that creature.
 
-Equipped creature has **Hexproof** while it is not attacking.
+Equipped creature has **Hexproof** while it is untapped.
 
 ## Wig Gluer Cattaur
 
@@ -992,7 +1001,7 @@ Creature – Cat Centaur Shaman
 4 mana  
 3 power, +2 attack
 
-If an artifact you control would get transferred to another player, I deal damage equal to its mana value to target creature instead.
+If an artifact you control would get stolen, I deal damage equal to its mana value to target creature instead.
 
 ## Kale Glittercat
 
@@ -1017,13 +1026,13 @@ Creature – Cat Centaur
 Creature – Cat Centaur
 
 2 mana  
-2/2
+2 power
 
-2 energy: activate ability of target Artifact without paying its cost.
+2 energy: activate ability of target Artifact without paying its energy cost.
 
 ## Johnny’s Warning
 
-Invocation
+Spell
 
 2 mana
 
@@ -1033,50 +1042,50 @@ Target player reveals their hand and places the highest mana value card from it 
 
 Land
 
-\+4/+2  
-3 Defense
+5 mana  
+\+4 mana
 
 **Bond** Cat, Mole  
 **Bane** Horse, Rodent, Bird
 
-At the end of your turn, target creature you control gets a +1/+1 counter.
+At the end of your turn, target creature you control gets a +1 power counter.
 
 ## Sunfish Merguy
 
 Creature – Fish Centaur
 
 2 mana  
-2/2
+2 power
 
-2 energy: Target attacking creature is no longer attacking.
+2 energy: Cancel target creature’s attack.
 
 ## Seaside Amusement Park
 
 Land
 
-\+10/+0  
-4 Defense
+9 mana  
+\+10 mana
 
 **Bane** Horse, Fish, Centaur
 
-Attacking creatures that get blocked by a Fish Creature get -1/-2 until end of turn.
+Attacking creatures that get blocked by a Fish Creature get -1 power and -1 health until end of turn.
 
 ## Whaletaur Shaman
 
 Creature – Fish Centaur Shaman
 
 10 mana  
-10/10
+10 power
 
 **Bond** Fish
 
-When another creature gets exiled, I get a +1/+1 counter.
+When another creature gets exiled, I get a +1 power counter.
 
-When another creature arrives from exile, that creature takes X damage, where X is the number of +1/+1 counters I have.
+When another creature arrives from exile, that creature takes X damage, where X is the number of +1 power counters I have.
 
 ## Horse’s Struggle
 
-Invocation
+Spell
 
 2 mana
 
@@ -1084,7 +1093,7 @@ Exile target creature until the end of your next turn.
 
 ## Wammawink’s Rescue
 
-Invocation
+Spell
 
 2 mana
 
@@ -1100,7 +1109,7 @@ Enchant Creature
 
 **Arrival**: Name a creature type.
 
-Enchanted creature has -1/-1, **Bond** X, where X is the chosen creature type, and “Creatures you control of the chosen type get +2/+2.”
+Enchanted creature has -1 power, **Bond** X, where X is the chosen creature type, and “Creatures you control of the chosen type get +2 power.”
 
 ## Portal Mountain
 
@@ -1108,7 +1117,7 @@ Land
 
 \+2 mana
 
-2 energy: tap target wall an opponent controls.
+2 energy: tap target Defender an opponent controls.
 
 ## Glendale’s Statue
 
