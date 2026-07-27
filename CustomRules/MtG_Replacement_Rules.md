@@ -204,7 +204,7 @@ Enchantments are a Spell with the “Enchantment” keyword, meaning it attaches
 
 ## Artifact
 
-Artifacts get crafted using mana. They stay on the battlefield and have abilities. Artifacts come into play untapped, unless they are also a creature. Artifacts have integrity (health). Artifacts can be targeted by attacks. When an artifact is attacked, if the attack damage is equal to or greater than its integrity, it gets destroyed and goes to the graveyard. Artifacts cannot block unless it is also a creature.
+Artifacts get crafted using mana. They stay on the battlefield and have abilities. Artifacts come into play untapped, unless they are also a creature. Artifacts have durability (health). Artifacts can be targeted by attacks. When an artifact is attacked, if the attack damage is equal to or greater than its durability, it gets destroyed and goes to the graveyard. Artifacts cannot block unless it is also a creature.
 
 Artifacts have these stats:
 
@@ -386,7 +386,7 @@ Land
 **Bond** Centaur  
 **Bane** Minotaur, Human
 
-**Arrival**: Permanents you control have **Hexproof** until the next time a creature you control attacks*.*
+**Arrival**: Permanents you control have **Hexproof** until the next time a creature you control attacks.
 
 ## Wammawink
 
@@ -824,7 +824,7 @@ Deal 2 damage to target creature and tap it.
 Artifact
 
 1 mana  
-1 Integrity
+1 Durability
 
 **Collectible** 3 *(At the start of your turn, if you control permanents with a total Collectible score of 10 or more, you win the game)*
 
@@ -833,7 +833,7 @@ Artifact
 Artifact
 
 1 mana  
-1 Integrity
+1 Durability
 
 **Collectible** 1
 
@@ -842,7 +842,7 @@ Artifact
 Artifact
 
 1 mana  
-1 Integrity
+1 Durability
 
 **Collectible** 1
 
@@ -851,7 +851,7 @@ Artifact
 Artifact
 
 1 mana  
-1 Integrity
+1 Durability
 
 **Collectible** 1
 
@@ -872,7 +872,7 @@ Artifact
 
 2 mana
 
-2 energy: Target creature you control becomes an Artifact with Integrity equal to its Vitality and gains **Collectible** X, where X is its Attack.
+2 energy: Target creature you control becomes an Artifact with Durability equal to its Vitality and gains **Collectible** X, where X is its Attack.
 
 *“But what I’m missing here, is you!” -Beartaur, to Horse*
 
