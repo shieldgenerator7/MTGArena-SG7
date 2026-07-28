@@ -29,3 +29,19 @@
 1 Hound Tamer
 1 Fangblade Brigand
 1 Village Watch
+1 Unnatural Growth
+
+48 nonland cards
+32 werewolf cards
+4 double lands
+
+basic land
+9 Mountain
+14 Forest
+
+green-red land
+4 Rockfall Vale (MID)
+4 Sheltered Thicket
+
+colorless land
+1 Secluded Courtyard (LTC)
