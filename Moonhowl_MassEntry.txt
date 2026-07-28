@@ -1,7 +1,4 @@
-Deck
 2 Moonrager's Slash
-9 Mountain
-14 Forest
 2 Outland Liberator
 1 Pack's Betrayal
 1 Reckless Stormseeker
@@ -13,9 +10,6 @@ Deck
 3 Unnatural Moonrise
 1 Tovolar, Dire Overlord
 1 Arlinn, the Pack's Hope
-2 Racers' Ring
-1 Rockfall Vale
-4 Rugged Highlands
 1 The Celestus
 1 Volatile Arsonist
 2 Bird Admirer
@@ -28,10 +22,6 @@ Deck
 2 Child of the Pack
 1 Retrieve
 2 Oakshade Stalker
-1 Crystal Grotto
-1 Secluded Courtyard
-
-Sideboard
 1 Spellrune Painter
 1 Ill-Tempered Loner
 1 Snarling Wolf
