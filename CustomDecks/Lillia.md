@@ -56,6 +56,7 @@ Lillia, Dream Realizer
 5 cost, 3/4  
 legendary enchantment elk centaur creature  
 Lands opponents own have “Return this land to its owner's hand: Gain 1 mana of any color.”
+Whenever a card is put in an opponent's hand, if it's not their turn, put a +1/+1 counter on Lillia, Dream Realizer.
 
 Dream-Laden Bough  
 3 cost equipment  
