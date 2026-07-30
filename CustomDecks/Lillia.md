@@ -57,6 +57,7 @@ Lillia, Dream Realizer
 legendary enchantment elk centaur creature  
 Lands opponents own have “Return this land to its owner's hand: Gain 1 mana of any color.”
 Whenever a permanent enters the battlefield under an opponent's control, if a land was put in their hand from the battlefield this turn, put a +1/+1 counter on Lillia, Dream Realizer.
+*"Every dream I helped restore, made me stronger than before." -Lillia*
 
 Dream-Laden Bough  
 3 cost equipment  
