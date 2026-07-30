@@ -55,7 +55,7 @@ Whenever an opponent draws a card outside their draw step, you may return an ins
 Lillia, Dream Realizer  
 5 cost, 3/4  
 legendary enchantment elk centaur creature  
-Lands opponents control have “Return this land to your hand: Gain 1 mana of any color. Activate only during your main phase.”
+Lands opponents own have “Return this land to its owner's hand: Gain 1 mana of any color.”
 
 Dream-Laden Bough  
 3 cost equipment  
