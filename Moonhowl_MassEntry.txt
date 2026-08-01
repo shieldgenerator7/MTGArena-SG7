@@ -33,7 +33,7 @@
 
 48 nonland cards
 32 werewolf cards
-4 double lands
+8 double lands
 
 basic land
 9 Mountain
