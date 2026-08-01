@@ -12,7 +12,7 @@ Win condition: Make opponents draw lots of cards, then one shot them with massiv
 
 4 cost, 0/1  
 Legendary Enchantment Elk Centaur Creature  
-lillia gains +X/+X and Ward X, where X is the biggest hand size among your opponents.   
+lillia gains +X/+X and Ward X, where X is the biggest hand size among your opponents.  
 tap: target opponent draws 1 card  
 opponents have no hand size limit
 
@@ -66,7 +66,9 @@ Whenever an opponent draws a card outside their draw step, you may return an ins
 5 cost, 3/4  
 legendary enchantment elk centaur creature  
 Lands opponents own have “Return this land to its owner's hand: Gain 1 mana of any color.”
+
 Whenever a permanent enters the battlefield under an opponent's control, if a land was put in their hand from the battlefield this turn, put a +1/+1 counter on Lillia, Dream Realizer.
+
 *"Every dream I helped restore, made me stronger than before." -Lillia*
 
 # Dream-Laden Bough
