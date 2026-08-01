@@ -63,11 +63,14 @@ Whenever an opponent draws a card outside their draw step, you may return an ins
 
 # Lillia, Dream Realizer
 
-5 cost, 3/4  
-legendary enchantment elk centaur creature  
-Lands opponents own have “Return this land to its owner's hand: Gain 1 mana of any color.”
+3 cost, 1/4  
+legendary enchantment elk centaur creature
 
-Whenever a permanent enters the battlefield under an opponent's control, if a land was put in their hand from the battlefield this turn, put a +1/+1 counter on Lillia, Dream Realizer.
+Ward – Sacrifice a Land.
+
+Lands opponents control have “Return this land to its owner's hand: Gain 1 mana of any color.”
+
+Whenever a nontoken nonland permanent enters the battlefield under an opponent's control, put a +1/+1 counter on Lillia, Dream Realizer. If the permanent is a creature, put a +1/+1 counter on it.
 
 *"Every dream I helped restore, made me stronger than before." -Lillia*
 
