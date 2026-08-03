@@ -39,21 +39,25 @@ Target opponent draws 1 card. deal 1 damage to up to X creatures that opponent c
 # Shared Dream
 
 2 cost enchantment  
-You draw a card during each player’s draw step.  
-Whenever you draw a card outside a draw step, each opponent draws 1 card.
+At the beginning of each draw step, each player draws 1 card. Sleeping players draw 2 instead.
 
 # Bashful Bloom
 
 2 cost enchantment  
 at the start of your turn, if an opponents hand size is greater than your life total, gain 1 life.  
-whenever you take damage, target opponent discards 1 card.
+Whenever a source a player controls deals damage to you, that player discards 1 card.
 
 # Dreaming Tree
 
 2 cost, 0/5  
-enchantment plant creature  
-when Dreaming Tree enters the battlefield, you may search your library for an elk or centaur creature, reveal it, put it in your hand, and then shuffle your library.  
-When Dreaming Tree is destroyed, you may play an elk or centaur creature from your hand or command zone without paying its mana cost.  
+enchantment plant creature
+
+Defender
+
+When Dreaming Tree enters the battlefield, you may search your library for an elk or centaur creature, reveal it, put it in your hand, and then shuffle your library.
+
+When Dreaming Tree is destroyed, you may play an elk or centaur creature from your hand or command zone without paying its mana cost.
+
 If this card is in your starting hand, you may start the game with it without paying its mana cost.
 
 # Dream Journal
@@ -63,14 +67,14 @@ Whenever an opponent draws a card outside their draw step, you may return an ins
 
 # Lillia, Dream Realizer
 
-3 cost, 1/4  
+3 cost, 0/1  
 legendary enchantment elk centaur creature
 
 Ward – Sacrifice a Land.
 
 Lands opponents control have “Return this land to its owner's hand: Gain 1 mana of any color.”
 
-Whenever a nontoken nonland permanent enters the battlefield under an opponent's control, put a +1/+1 counter on Lillia, Dream Realizer. If the permanent is a creature, put a +1/+1 counter on it.
+Whenever a nontoken creature enters the battlefield under an opponent's control, put a +1/+1 counter on it, then put a +1/+1 counter on Lillia, Dream Realizer.
 
 *"Every dream I helped restore, made me stronger than before." -Lillia*
 
@@ -141,3 +145,9 @@ tap: tap target land an opponent controls
 
 1 cost instant  
 target opponent with hand size 4 or more draws 3 cards. Draw 2 cards.
+
+# Thought Purge
+
+1 cost instant
+
+Choose a card from target player’s hand and reveal it. They take damage equal to its converted mana cost.
