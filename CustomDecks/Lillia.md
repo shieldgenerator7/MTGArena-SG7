@@ -49,14 +49,14 @@ Whenever a source a player controls deals damage to you, that player discards 1 
 
 # Dreaming Tree
 
-2 cost, 0/5  
-enchantment plant creature
+1GG, 0/5  
+legendary enchantment creature – plant
 
 Defender
 
-When Dreaming Tree enters the battlefield, you may search your library for an elk or centaur creature, reveal it, put it in your hand, and then shuffle your library.
+Tap: Put X +1/+1 counters on Dreaming Tree, where X is the current player’s handsize.
 
-When Dreaming Tree is destroyed, you may play an elk or centaur creature from your hand or command zone without paying its mana cost.
+When Dreaming Tree is destroyed, add X {G}, where X is the number of counters on it. This mana lasts until the start of your next turn.
 
 If this card is in your starting hand, you may start the game with it without paying its mana cost.
 
