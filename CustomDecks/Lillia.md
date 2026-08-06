@@ -154,7 +154,7 @@ Choose a card from target player’s hand and reveal it. They take damage equal 
 
 # Existing MtG Cards
 
-These are cards I have a high chance of choosing for this deck.
+These are cards I have a high chance of choosing for this deck. The strategy here is to give opponents cards, ramp from their card draw, then bounce board wipe them and handsize finish them all at once. I feel like this could very easily feel like Lillia’s playstyle from League of Legends.
 
 -   Bounce board wipe
     -   Upheaval (B) – bounce board wipe
