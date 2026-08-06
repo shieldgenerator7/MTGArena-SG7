@@ -151,3 +151,15 @@ target opponent with hand size 4 or more draws 3 cards. Draw 2 cards.
 1 cost instant
 
 Choose a card from target player’s hand and reveal it. They take damage equal to its converted mana cost.
+
+# Existing MtG Cards
+
+These are cards I have a high chance of choosing for this deck.
+
+-   Oblivion Ring (W) – board wipe protection / removal
+-   Upheaval (B) – bounce board wipe
+-   Stormbreath Dragon (R) – handsize mass finisher
+-   Windfall (B) – mass card draw
+-   Consuming Tide (B) – bounce board wipe
+-   Khorvath’s Fury (R) – handsize mass finisher
+-   Tales of the Ancestors (B) – mass card draw
