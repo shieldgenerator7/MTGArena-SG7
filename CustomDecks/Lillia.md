@@ -156,15 +156,22 @@ Choose a card from target player’s hand and reveal it. They take damage equal 
 
 These are cards I have a high chance of choosing for this deck.
 
--   Oblivion Ring (W) – board wipe protection / removal
--   Upheaval (B) – bounce board wipe
--   Stormbreath Dragon (R) – handsize mass finisher
--   Windfall (B) – mass card draw
--   Consuming Tide (B) – bounce board wipe
--   Khorvath’s Fury (R) – handsize mass finisher
--   Tales of the Ancestors (B) – mass card draw
--   Folio of Fancies (B) – mass no max hand size, mass card draw
--   Howling Golem (c) – mass card draw
--   Gleaming Splendor (W) – ramp from opponent card draw
--   Prosperity (B) – mass card draw
--   Skyscribing (B) - mass card draw
+-   Bounce board wipe
+    -   Upheaval (B) – bounce board wipe
+    -   Consuming Tide (B) – bounce board wipe
+-   Handsize mass finisher
+    -   Stormbreath Dragon (R) – handsize mass finisher
+    -   Khorvath’s Fury (R) – handsize mass finisher
+-   Mass card draw
+    -   Windfall (B) – mass card draw
+    -   Tales of the Ancestors (B) – mass card draw
+    -   Folio of Fancies (B) – mass no max hand size, mass card draw
+    -   Howling Golem (c) – mass card draw
+    -   Prosperity (B) – mass card draw
+    -   Skyscribing (B) - mass card draw
+-   Ramp from card draw
+    -   Gleaming Splendor (W) – ramp from opponent card draw
+    -   Smothering Tithe (W) – ramp from opponent card draw
+    -   Tataru Taru (W) - ramp from opponent card draw
+-   Misc
+    -   Oblivion Ring (W) – board wipe protection / removal
