@@ -163,3 +163,8 @@ These are cards I have a high chance of choosing for this deck.
 -   Consuming Tide (B) – bounce board wipe
 -   Khorvath’s Fury (R) – handsize mass finisher
 -   Tales of the Ancestors (B) – mass card draw
+-   Folio of Fancies (B) – mass no max hand size, mass card draw
+-   Howling Golem (c) – mass card draw
+-   Gleaming Splendor (W) – ramp from opponent card draw
+-   Prosperity (B) – mass card draw
+-   Skyscribing (B) - mass card draw
