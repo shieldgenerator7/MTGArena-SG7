@@ -52,11 +52,13 @@ Whenever a source a player controls deals damage to you, that player discards 1 
 1GG, 0/5  
 legendary enchantment creature – plant
 
-Defender
+Defender, Reach
 
-Tap: Put X +1/+1 counters on Dreaming Tree, where X is the current player’s handsize.
+Whenever a creature becomes blocked by Dreaming Tree, that creature’s controller gets a Sleeping emblem.
 
-When Dreaming Tree is destroyed, add X {G}, where X is the number of counters on it. This mana lasts until the start of your next turn.
+At the beginning of each player’s end step, if that player didn’t play any spells during their turn, put a +1/+1 counter on Dreaming Tree.
+
+At the beginning of each player’s end step, if that player played 3 or more spells during their turn, put a -1/-1 counter on Dreaming Tree.
 
 If this card is in your starting hand, you may start the game with it without paying its mana cost.
 
