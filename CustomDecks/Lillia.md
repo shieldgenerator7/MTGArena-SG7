@@ -34,7 +34,7 @@ all opponents with hand size 7 or more gets a Sleeping emblem (“You can’t pl
 # Fawn Mower
 
 1 cost instant  
-Target opponent draws 1 card. deal 1 damage to up to X creatures that opponent controls, where X is their hand size.
+Target opponent draws 1 card. deal 1 damage each to up to X creatures that opponent controls, where X is their hand size.
 
 # Shared Dream
 
@@ -43,14 +43,16 @@ At the beginning of each draw step, each player draws 1 card. Sleeping players d
 
 # Bashful Bloom
 
-2 cost enchantment  
-at the start of your turn, if an opponents hand size is greater than your life total, gain 1 life.  
+2 cost enchantment
+
+2: Draw a card. Any player may activate this ability.  
+at the start of each turn, if an opponents hand size is greater than your life total, gain 1 life.  
 Whenever a source a player controls deals damage to you, that player discards 1 card.
 
 # Dreaming Tree
 
-1GG, 0/3  
-legendary enchantment creature – plant
+1UUG, 0/4  
+Legendary Enchantment Creature – Plant
 
 Defender, Reach
 
@@ -67,7 +69,7 @@ Whenever an opponent draws a card outside their draw step, you may return an ins
 
 # Lillia, Dream Realizer
 
-3 cost, 0/1  
+WUG, 0/1  
 legendary enchantment elk centaur creature
 
 Ward – Sacrifice a Land.
