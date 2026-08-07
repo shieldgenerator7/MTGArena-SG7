@@ -69,14 +69,14 @@ Whenever an opponent draws a card outside their draw step, you may return an ins
 
 # Lillia, Dream Realizer
 
-WUG, 0/1  
+WUR, 0/1  
 legendary enchantment elk centaur creature
 
 Ward – Sacrifice a Land.
 
-Lands opponents control have “Return this land to its owner's hand: Gain 1 mana of any color.”
+Lands opponents control have “Return this land to its owner's hand: Add 1 mana of any color.”
 
-Whenever a permanent enters the battlefield under an opponent's control, you gain 1 life.
+Whenever an opponent would discard one or more cards, they may instead pay 1 life. If they do, you gain 1 life.
 
 *"Every dream I helped restore, made me stronger than before." -Lillia*
 
