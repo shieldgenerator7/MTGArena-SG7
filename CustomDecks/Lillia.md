@@ -159,21 +159,21 @@ Choose a card from target player’s hand and reveal it. They take damage equal 
 These are cards I have a high chance of choosing for this deck. The strategy here is to give opponents cards, ramp from their card draw, then bounce board wipe them and handsize finish them all at once. I feel like this could very easily feel like Lillia’s playstyle from League of Legends.
 
 -   Bounce board wipe
-    -   Upheaval (B) – bounce board wipe
-    -   Consuming Tide (B) – bounce board wipe
+    -   Upheaval (B)
+    -   Consuming Tide (B)
 -   Handsize mass finisher
-    -   Stormbreath Dragon (R) – handsize mass finisher
-    -   Khorvath’s Fury (R) – handsize mass finisher
+    -   Stormbreath Dragon (R)
+    -   Khorvath’s Fury (R)
 -   Mass card draw
-    -   Windfall (B) – mass card draw
-    -   Tales of the Ancestors (B) – mass card draw
+    -   Windfall (B)
+    -   Tales of the Ancestors (B)
     -   Folio of Fancies (B) – mass no max hand size, mass card draw
-    -   Howling Golem (c) – mass card draw
-    -   Prosperity (B) – mass card draw
-    -   Skyscribing (B) - mass card draw
--   Ramp from card draw
-    -   Gleaming Splendor (W) – ramp from opponent card draw
-    -   Smothering Tithe (W) – ramp from opponent card draw
-    -   Tataru Taru (W) - ramp from opponent card draw
+    -   Howling Golem (c)
+    -   Prosperity (B)
+    -   Skyscribing (B)
+-   Ramp from opponent card draw
+    -   Gleaming Splendor (W)
+    -   Smothering Tithe (W)
+    -   Tataru Taru (W)
 -   Misc
     -   Oblivion Ring (W) – board wipe protection / removal
